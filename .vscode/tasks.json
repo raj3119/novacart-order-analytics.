@@ -1,0 +1,34 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "NovaCart 1: setup (venv + install)",
+      "type": "shell",
+      "command": "python3 -m venv .venv && .venv/bin/pip install -q -r requirements.txt && .venv/bin/python -c \"import streamlit, pandas; print('streamlit', streamlit.__version__, '| pandas', pandas.__version__)\"",
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": []
+    },
+    {
+      "label": "NovaCart 2: acceptance tests",
+      "type": "shell",
+      "command": ".venv/bin/python tests/test_pipeline.py",
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": []
+    },
+    {
+      "label": "NovaCart 3: demo run (reset, batch_1, batch_2, batch_2 again, batch_9)",
+      "type": "shell",
+      "command": ".venv/bin/python run_pipeline.py --demo | grep -v '\\[DQ\\]'; .venv/bin/python run_pipeline.py --batch batch_9 --retry-wait 1 | grep -v '\\[DQ\\]'",
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": []
+    },
+    {
+      "label": "NovaCart 4: Streamlit UI",
+      "type": "shell",
+      "command": ".venv/bin/streamlit run app.py",
+      "options": { "cwd": "${workspaceFolder}" },
+      "isBackground": true,
+      "problemMatcher": []
+    }
+  ]
+}

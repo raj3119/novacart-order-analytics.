@@ -1,0 +1,1007 @@
+{"order_id": "NC-100616", "line_no": 1, "product_id": "P011", "qty": 2, "unit_price": 105.11, "discount_pct": null, "line_type": "sale", "attributes": {"color": "beige", "gift_wrap": false}}
+{"order_id": "NC-100645", "line_no": 3, "product_id": "P028", "qty": 1, "unit_price": 3453.01, "discount_pct": 5, "line_type": "sale", "attributes": {"volume_ml": 30, "gift_wrap": true}}
+{"order_id": "NC-100706", "line_no": 1, "product_id": "P003", "qty": 1, "unit_price": 372.62, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 24}}
+{"order_id": "NC-100648", "line_no": 2, "product_id": "P036", "qty": 2, "unit_price": 67.13, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "orange", "size": "L"}}
+{"order_id": "NC-100658", "line_no": 3, "product_id": "P006", "qty": 1, "unit_price": 365.56, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 6}}
+{"order_id": "NC-100504", "line_no": 2, "product_id": "P010", "qty": 1, "unit_price": 135.91, "discount_pct": null, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 6}}
+{"order_id": "NC-100833", "line_no": 1, "product_id": "P006", "qty": 1, "unit_price": 32943.81, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 6}}
+{"order_id": "NC-100887", "line_no": 2, "product_id": "P034", "qty": 3, "unit_price": 111.2, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "orange", "size": "std"}}
+{"order_id": "NC-100672", "line_no": 1, "product_id": "P024", "qty": 2, "unit_price": 7525.38, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "black", "size": "S"}}
+{"order_id": "NC-100905", "line_no": 1, "product_id": "P011", "qty": 3, "unit_price": 8184.15, "discount_pct": 0, "line_type": "sale", "attributes": null}
+{"order_id": "NC-100771", "line_no": 3, "product_id": "P035", "qty": 1, "unit_price": 127.64, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "black", "size": "L"}}
+{"order_id": "NC-100743", "line_no": 2, "product_id": "P006", "qty": 1, "unit_price": 33593.11, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 6}}
+{"order_id": "NC-100939", "line_no": 1, "product_id": "P039", "qty": 4, "unit_price": 7.03, "discount_pct": 12.5, "line_type": "sale", "attributes": {"format": "paperback", "gift_wrap": true}}
+{"order_id": "NC-100538", "line_no": 2, "product_id": "P036", "qty": 1, "unit_price": 50.46, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "orange", "size": "std"}}
+{"order_id": "NC-100468", "line_no": 1, "product_id": "P040", "qty": 4, "unit_price": 37.3, "discount_pct": 10, "line_type": "sale", "attributes": {"format": "paperback", "gift_wrap": false}}
+{"order_id": "NC-100553", "line_no": 2, "product_id": "P003", "qty": 1, "unit_price": 34489.25, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 12}}
+{"order_id": "NC-100928", "line_no": 2, "product_id": "P010", "qty": 1, "unit_price": 178.89, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 12}}
+{"order_id": "NC-100912", "line_no": 1, "product_id": "P016", "qty": 1, "unit_price": 135.52, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "green", "gift_wrap": false}}
+{"order_id": "NC-100731", "line_no": 2, "product_id": "P012", "qty": 1, "unit_price": 4155.75, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "beige", "gift_wrap": true}}
+{"order_id": "NC-100817", "line_no": 4, "product_id": "P040", "qty": 5, "unit_price": 38.89, "discount_pct": 5, "line_type": "sale", "attributes": {"format": "paperback", "gift_wrap": false}}
+{"order_id": "NC-100582", "line_no": 1, "product_id": "P008", "qty": 2, "unit_price": 58.24, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 6}}
+{"order_id": "NC-100701", "line_no": 2, "product_id": "P022", "qty": 3, "unit_price": 77.18, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "red", "size": "S"}}
+{"order_id": "NC-100527", "line_no": 3, "product_id": "P016", "qty": 1, "unit_price": 75.12, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "green", "gift_wrap": false}}
+{"order_id": "NC-100482", "line_no": 2, "product_id": "P009", "qty": 1, "unit_price": 212.78, "discount_pct": 25, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 12}}
+{"order_id": "NC-100824", "line_no": 1, "product_id": "P013", "qty": 3, "unit_price": "9.23", "discount_pct": 10, "line_type": "sale", "attributes": {"color": "beige", "gift_wrap": false}}
+{"order_id": "NC-100688", "line_no": 3, "product_id": "P005", "qty": 3, "unit_price": 368.96, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 6}}
+{"order_id": "NC-100650", "line_no": 1, "product_id": "P017", "qty": 1, "unit_price": 6304.58, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "green", "gift_wrap": false}}
+{"order_id": "NC-100507", "line_no": 3, "product_id": "P039", "qty": -1, "unit_price": 550.76, "discount_pct": 0, "line_type": "return", "attributes": {"reason": "wrong_size"}}
+{"order_id": "NC-100944", "line_no": 1, "product_id": "P024", "qty": 2, "unit_price": 7749.04, "discount_pct": 25, "line_type": "sale", "attributes": {"color": "olive", "size": "M"}}
+{"order_id": "NC-100674", "line_no": 2, "product_id": "P001", "qty": 1, "unit_price": 135.17, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 6}}
+{"order_id": "NC-100838", "line_no": 1, "product_id": "P011", "qty": 2, "unit_price": 8542.72, "discount_pct": 20, "line_type": "sale", "attributes": null}
+{"order_id": "NC-100789", "line_no": 3, "product_id": "P005", "qty": 1, "unit_price": 27890.34, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 6}}
+{"order_id": "NC-100580", "line_no": 1, "product_id": "P033", "qty": 1, "unit_price": 45.97, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "orange", "size": "std"}}
+{"order_id": "NC-100832", "line_no": 1, "product_id": "P029", "qty": 2, "unit_price": 43.52, "discount_pct": null, "line_type": "sale", "attributes": {"volume_ml": 30, "gift_wrap": false}}
+{"order_id": "NC-100502", "line_no": 3, "product_id": "P003", "qty": 1, "unit_price": 33611.98, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 6}}
+{"order_id": "NC-100817", "line_no": 2, "product_id": "P031", "qty": 2, "unit_price": 39.45, "discount_pct": 10, "line_type": "sale", "attributes": {"volume_ml": 100, "gift_wrap": true}}
+{"order_id": "NC-100597", "line_no": 4, "product_id": "P036", "qty": -1, "unit_price": 56.92, "discount_pct": 0, "line_type": "return", "attributes": {"reason": "not_as_described"}}
+{"order_id": "NC-100515", "line_no": 1, "product_id": "P040", "qty": 1, "unit_price": 25.18, "discount_pct": 0, "line_type": "sale", "attributes": {"format": "hardcover", "gift_wrap": false}}
+{"order_id": "NC-100586", "line_no": 1, "product_id": "P004", "qty": 1, "unit_price": 126.67, "discount_pct": 15, "line_type": "sale", "attributes": null}
+{"order_id": "NC-100614", "line_no": 1, "product_id": "P033", "qty": 1, "unit_price": 60.03, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "orange", "size": "L"}}
+{"order_id": "NC-100803", "line_no": 2, "product_id": "P031", "qty": 3, "unit_price": "2827.72", "discount_pct": 15, "line_type": "sale", "attributes": {"volume_ml": 100, "gift_wrap": false}}
+{"order_id": "NC-100650", "line_no": 2, "product_id": "P028", "qty": 1, "unit_price": 3548.52, "discount_pct": 0, "line_type": "sale", "attributes": {"volume_ml": 100, "gift_wrap": false}}
+{"order_id": "NC-100858", "line_no": 1, "product_id": "P031", "qty": 1, "unit_price": 23.1, "discount_pct": 10, "line_type": "sale", "attributes": {"volume_ml": 30, "gift_wrap": true}}
+{"order_id": "NC-100940", "line_no": 3, "product_id": "P039", "qty": 3, "unit_price": 579.69, "discount_pct": "5", "line_type": "sale", "attributes": {"format": "hardcover", "gift_wrap": false}}
+{"order_id": "NC-100688", "line_no": 1, "product_id": "P008", "qty": 2, "unit_price": 46.81, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 6}}
+{"order_id": "NC-100555", "line_no": 1, "product_id": "P009", "qty": 1, "unit_price": "23920.71", "discount_pct": 5, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 12}}
+{"order_id": "NC-100329", "line_no": 4, "product_id": "P002", "qty": -1, "unit_price": "198.75", "discount_pct": 0, "line_type": "return", "attributes": {"reason": "changed_mind"}}
+{"order_id": "NC-100749", "line_no": 1, "product_id": "P010", "qty": 1, "unit_price": 16241.57, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 24}}
+{"order_id": "NC-100914", "line_no": 1, "product_id": "P014", "qty": 1, "unit_price": 20.75, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "beige", "gift_wrap": false}}
+{"order_id": "NC-100854", "line_no": 2, "product_id": "P004", "qty": 2, "unit_price": 13556.14, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 6}}
+{"order_id": "NC-100708", "line_no": 1, "product_id": "P101", "qty": 2, "unit_price": 137.19, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "black", "size": "L"}}
+{"order_id": "NC-100627", "line_no": 1, "product_id": "P035", "qty": 1, "unit_price": 119.7, "discount_pct": 25, "line_type": "sale", "attributes": {"color": "blue", "size": "L"}}
+{"order_id": "NC-100645", "line_no": 4, "product_id": "P033", "qty": 1, "unit_price": 5487.81, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "orange", "size": "std"}}
+{"order_id": "NC-100686", "line_no": 3, "product_id": "P012", "qty": 1, "unit_price": 40.32, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "green", "gift_wrap": true}}
+{"order_id": "NC-100628", "line_no": 1, "product_id": "P029", "qty": 2, "unit_price": 63.51, "discount_pct": 10, "line_type": "sale", "attributes": {"volume_ml": 100, "gift_wrap": false}}
+{"order_id": "NC-100826", "line_no": 1, "product_id": "P022", "qty": 1, "unit_price": 64.36, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "navy", "size": "S"}}
+{"order_id": "NC-100749", "line_no": 3, "product_id": "P040", "qty": 4, "unit_price": 2369.06, "discount_pct": null, "line_type": "sale", "attributes": {"format": "paperback", "gift_wrap": true}}
+{"order_id": "NC-100770", "line_no": 1, "product_id": "P001", "qty": 2, "unit_price": 15992.76, "discount_pct": 12.5, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 6}}
+{"order_id": "NC-100499", "line_no": 3, "product_id": "P015", "qty": 1, "unit_price": 1334.34, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "green", "gift_wrap": false}}
+{"order_id": "NC-100835", "line_no": 1, "product_id": "P027", "qty": 1, "unit_price": 3027.98, "discount_pct": 15, "line_type": "sale", "attributes": {"volume_ml": 100, "gift_wrap": false}}
+{"order_id": "NC-100702", "line_no": 2, "product_id": "P021", "qty": 1, "unit_price": 3554.41, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "olive", "size": "M"}}
+{"order_id": "NC-100640", "line_no": 5, "product_id": "P020", "qty": -1, "unit_price": 49.4, "discount_pct": null, "line_type": "return", "attributes": {"reason": "damaged"}}
+{"order_id": "NC-100658", "line_no": 2, "product_id": "P034", "qty": 1, "unit_price": 148.71, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "black", "size": "L"}}
+{"order_id": "NC-100776", "line_no": 4, "product_id": "P021", "qty": 1, "unit_price": 3898.19, "discount_pct": 25, "line_type": "sale", "attributes": {"color": "black", "size": "XL"}}
+{"order_id": "NC-100648", "line_no": 2, "product_id": "P036", "qty": 2, "unit_price": 67.13, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "orange", "size": "L"}}
+{"order_id": "NC-100778", "line_no": 1, "product_id": "P034", "qty": 1, "unit_price": 12010.91, "discount_pct": 0, "line_type": "sale", "attributes": null}
+{"order_id": "NC-100666", "line_no": 3, "product_id": "P038", "qty": 2, "unit_price": 1538.75, "discount_pct": 15, "line_type": "sale", "attributes": {"format": "paperback", "gift_wrap": true}}
+{"order_id": "NC-100922", "line_no": 1, "product_id": "P028", "qty": 1, "unit_price": 3663.72, "discount_pct": 10, "line_type": "sale", "attributes": {"volume_ml": 30, "gift_wrap": false}}
+{"order_id": "NC-100895", "line_no": 1, "product_id": "P023", "qty": 1, "unit_price": 6972.91, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "navy", "size": "S"}}
+{"order_id": "NC-100556", "line_no": 1, "product_id": "P012", "qty": 1, "unit_price": 33.91, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "green", "gift_wrap": true}}
+{"order_id": "NC-100827", "line_no": 3, "product_id": "P016", "qty": 1, "unit_price": 77.66, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "green", "gift_wrap": false}}
+{"order_id": "NC-100698", "line_no": 3, "product_id": "P030", "qty": 1, "unit_price": 837.63, "discount_pct": 5, "line_type": "sale", "attributes": {"volume_ml": 100, "gift_wrap": false}}
+{"order_id": "NC-100641", "line_no": 1, "product_id": "P003", "qty": 1, "unit_price": 31358.83, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 6}}
+{"order_id": "NC-100920", "line_no": 2, "product_id": "P006", "qty": 3, "unit_price": 31444.09, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 12}}
+{"order_id": "NC-100790", "line_no": 1, "product_id": "P007", "qty": 2, "unit_price": 34137.12, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 12}}
+{"order_id": "NC-100552", "line_no": 4, "product_id": "P033", "qty": 2, "unit_price": 61.71, "discount_pct": 5, "line_type": "sale", "attributes": null}
+{"order_id": "NC-100678", "line_no": 1, "product_id": "P005", "qty": 2, "unit_price": 261.64, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 12}}
+{"order_id": "NC-100526", "line_no": 2, "product_id": "P024", "qty": 2, "unit_price": 66.84, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "olive", "size": "M"}}
+{"order_id": "NC-100452", "line_no": 3, "product_id": "P036", "qty": -1, "unit_price": 69.16, "discount_pct": 15, "line_type": "return", "attributes": {"reason": "damaged"}}
+{"order_id": "NC-100645", "line_no": 2, "product_id": "P029", "qty": 3, "unit_price": 4181.79, "discount_pct": 5, "line_type": "sale", "attributes": {"volume_ml": 100, "gift_wrap": false}}
+{"order_id": "NC-100534", "line_no": 2, "product_id": "P029", "qty": 1, "unit_price": 3974.47, "discount_pct": 0, "line_type": "sale", "attributes": {"volume_ml": 50, "gift_wrap": false}}
+{"order_id": "NC-100509", "line_no": 1, "product_id": "P102", "qty": 2, "unit_price": "55.73", "discount_pct": 10, "line_type": "sale", "attributes": {"volume_ml": 50, "gift_wrap": false}}
+{"order_id": "NC-100453", "line_no": 2, "product_id": "P004", "qty": -1, "unit_price": 15033.21, "discount_pct": 0, "line_type": "return", "attributes": {"reason": "not_as_described"}}
+{"order_id": "NC-100746", "line_no": 1, "product_id": "P002", "qty": 1, "unit_price": 17235.17, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 24}}
+{"order_id": "NC-100791", "line_no": 1, "product_id": "P003", "qty": 2, "unit_price": 32444.29, "discount_pct": null, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 12}}
+{"order_id": "NC-100570", "line_no": 1, "product_id": "P007", "qty": 1, "unit_price": 35057.29, "discount_pct": null, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 6}}
+{"order_id": "NC-100929", "line_no": 1, "product_id": "P006", "qty": 1, "unit_price": 371.47, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 24}}
+{"order_id": "NC-100694", "line_no": 1, "product_id": "P013", "qty": 1, "unit_price": 933.74, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "green", "gift_wrap": false}}
+{"order_id": "NC-100905", "line_no": 2, "product_id": "P025", "qty": 2, "unit_price": 6455.71, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "navy", "size": "M"}}
+{"order_id": "NC-100577", "line_no": 1, "product_id": "P009", "qty": 1, "unit_price": 280.44, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 12}}
+{"order_id": "NC-100278", "line_no": 2, "product_id": "P004", "qty": -1, "unit_price": 13816.23, "discount_pct": 25, "line_type": "return", "attributes": {"reason": "wrong_size"}}
+{"order_id": "NC-100722", "line_no": 2, "product_id": "P007", "qty": 1, "unit_price": 318.05, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 6}}
+{"order_id": "NC-100535", "line_no": 1, "product_id": "P027", "qty": 3, "unit_price": 36.03, "discount_pct": 5, "line_type": "sale", "attributes": {"volume_ml": 30, "gift_wrap": false}}
+{"order_id": "NC-100904", "line_no": 3, "product_id": "P019", "qty": 1, "unit_price": 49.6, "discount_pct": null, "line_type": "sale", "attributes": {"color": "black", "size": "L"}}
+{"order_id": "NC-100912", "line_no": 3, "product_id": "P023", "qty": 1, "unit_price": 108.11, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "navy", "size": "L"}}
+{"order_id": "NC-100608", "line_no": 2, "product_id": "P028", "qty": 2, "unit_price": 3485.46, "discount_pct": 5, "line_type": "sale", "attributes": {"volume_ml": 50, "gift_wrap": false}}
+{"order_id": "NC-100858", "line_no": 3, "product_id": "P005", "qty": 3, "unit_price": 243.54, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 6}}
+{"order_id": "NC-100646", "line_no": 2, "product_id": "P016", "qty": 1, "unit_price": 99.43, "discount_pct": null, "line_type": "sale", "attributes": {"color": "white", "gift_wrap": true}}
+{"order_id": "NC-100728", "line_no": 1, "product_id": "P006", "qty": 1, "unit_price": 31425.94, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 6}}
+{"order_id": "NC-100519", "line_no": 1, "product_id": "P005", "qty": 2, "unit_price": 29823.44, "discount_pct": null, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 12}}
+{"order_id": "NC-100559", "line_no": 2, "product_id": "P033", "qty": 1, "unit_price": 5214.72, "discount_pct": 25, "line_type": "sale", "attributes": {"color": "orange", "size": "std"}}
+{"order_id": "NC-100897", "line_no": 1, "product_id": "P016", "qty": 1, "unit_price": 104.27, "discount_pct": 0, "line_type": "sale", "attributes": null}
+{"order_id": "NC-100185", "line_no": 2, "product_id": "P019", "qty": -2, "unit_price": 58.56, "discount_pct": null, "line_type": "return", "attributes": {"reason": "not_as_described"}}
+{"order_id": "NC-100524", "line_no": 1, "product_id": "P030", "qty": 3, "unit_price": 13.36, "discount_pct": null, "line_type": "sale", "attributes": {"volume_ml": 30, "gift_wrap": true}}
+{"order_id": "NC-100732", "line_no": 2, "product_id": "P006", "qty": 1, "unit_price": 34263.54, "discount_pct": null, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 24}}
+{"order_id": "NC-100818", "line_no": 3, "product_id": "P032", "qty": 2, "unit_price": 38.84, "discount_pct": 0, "line_type": "sale", "attributes": {"volume_ml": 30, "gift_wrap": false}}
+{"order_id": "NC-100840", "line_no": 1, "product_id": "P013", "qty": 1, "unit_price": 10.97, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "green", "gift_wrap": false}}
+{"order_id": "NC-100775", "line_no": 1, "product_id": "P026", "qty": 1, "unit_price": 66.13, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "navy", "size": "L"}}
+{"order_id": "NC-100781", "line_no": 1, "product_id": "P021", "qty": 1, "unit_price": 60.01, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "navy", "size": "L"}}
+{"order_id": "NC-100511", "line_no": 2, "product_id": "P029", "qty": 1, "unit_price": 34.46, "discount_pct": 15, "line_type": "sale", "attributes": {"volume_ml": 100, "gift_wrap": false}}
+{"order_id": "NC-100872", "line_no": 1, "product_id": "P007", "qty": 1, "unit_price": 420.36, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 12}}
+{"order_id": "NC-100862", "line_no": 2, "product_id": "P019", "qty": 3, "unit_price": 56.02, "discount_pct": null, "line_type": "sale", "attributes": {"color": "red", "size": "XL"}}
+{"order_id": "NC-100910", "line_no": 1, "product_id": "P029", "qty": 1, "unit_price": 35.95, "discount_pct": 15, "line_type": "sale", "attributes": {"volume_ml": 30, "gift_wrap": false}}
+{"order_id": "NC-100561", "line_no": 1, "product_id": "P010", "qty": 1, "unit_price": 130.28, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 12}}
+{"order_id": "NC-100497", "line_no": 2, "product_id": "P003", "qty": 2, "unit_price": 32257.24, "discount_pct": null, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 6}}
+{"order_id": "NC-100612", "line_no": 1, "product_id": "P019", "qty": 1, "unit_price": 58.93, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "black", "size": "M"}}
+{"order_id": "NC-100718", "line_no": 1, "product_id": "P005", "qty": 1, "unit_price": 29816.44, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 12}}
+{"order_id": "NC-100520", "line_no": 2, "product_id": "P022", "qty": -1, "unit_price": 64.72, "discount_pct": 0, "line_type": "return", "attributes": {"reason": "damaged"}}
+{"order_id": "NC-100846", "line_no": 2, "product_id": "P003", "qty": 1, "unit_price": 34986.9, "discount_pct": null, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 24}}
+{"order_id": "NC-100809", "line_no": 2, "product_id": "P032", "qty": 3, "unit_price": 50.81, "discount_pct": 10, "line_type": "sale", "attributes": {"volume_ml": 30, "gift_wrap": false}}
+{"order_id": "NC-100711", "line_no": 1, "product_id": "P003", "qty": 1, "unit_price": 512.8, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 6}}
+{"order_id": "NC-100499", "line_no": 2, "product_id": "P005", "qty": 1, "unit_price": 30491.84, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 12}}
+{"order_id": "NC-100695", "line_no": 3, "product_id": "P026", "qty": 1, "unit_price": 73.24, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "navy", "size": "M"}}
+{"order_id": "NC-100550", "line_no": 2, "product_id": "P006", "qty": 1, "unit_price": 32237.84, "discount_pct": 10, "line_type": "sale", "attributes": null}
+{"order_id": "NC-100921", "line_no": 2, "product_id": "P002", "qty": 2, "unit_price": 173.59, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 6}}
+{"order_id": "NC-100942", "line_no": 1, "product_id": "P003", "qty": 1, "unit_price": 32053.49, "discount_pct": 25, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 24}}
+{"order_id": "NC-100800", "line_no": 1, "product_id": "P005", "qty": 1, "unit_price": 31080.39, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 6}}
+{"order_id": "NC-100439", "line_no": 5, "product_id": "P001", "qty": -1, "unit_price": 16782.62, "discount_pct": 5, "line_type": "return", "attributes": {"reason": "wrong_size"}}
+{"order_id": "NC-100855", "line_no": 2, "product_id": "P014", "qty": 1, "unit_price": 1705.79, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "white", "gift_wrap": false}}
+{"order_id": "NC-100870", "line_no": 3, "product_id": "P002", "qty": 3, "unit_price": 248.42, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 24}}
+{"order_id": "NC-100554", "line_no": 1, "product_id": "P040", "qty": 4, "unit_price": 2347.6, "discount_pct": null, "line_type": "sale", "attributes": {"format": "hardcover", "gift_wrap": false}}
+{"order_id": "NC-100640", "line_no": 4, "product_id": "P025", "qty": -1, "unit_price": 67.92, "discount_pct": 0, "line_type": "return", "attributes": {"reason": "wrong_size"}}
+{"order_id": "NC-100847", "line_no": 1, "product_id": "P012", "qty": 1, "unit_price": 42.81, "discount_pct": null, "line_type": "sale", "attributes": {"color": "white", "gift_wrap": true}}
+{"order_id": "NC-100735", "line_no": 1, "product_id": "P008", "qty": 2, "unit_price": 45.98, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 6}}
+{"order_id": "NC-100916", "line_no": 2, "product_id": "P009", "qty": 1, "unit_price": 22700.29, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 24}}
+{"order_id": "NC-100907", "line_no": 3, "product_id": "P022", "qty": 1, "unit_price": 52.46, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "navy", "size": "L"}}
+{"order_id": "NC-100818", "line_no": 2, "product_id": "P008", "qty": 1, "unit_price": 36.85, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 6}}
+{"order_id": "NC-100729", "line_no": 3, "product_id": "P033", "qty": 1, "unit_price": 77.19, "discount_pct": 5, "line_type": "sale", "attributes": null}
+{"order_id": "NC-100917", "line_no": 2, "product_id": "P034", "qty": 1, "unit_price": 146.75, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "black", "size": "L"}}
+{"order_id": "NC-100665", "line_no": 2, "product_id": "P025", "qty": 1, "unit_price": 104.67, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "red", "size": "M"}}
+{"order_id": "NC-100719", "line_no": 3, "product_id": "P007", "qty": 1, "unit_price": 358.92, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 24}}
+{"order_id": "NC-100773", "line_no": 1, "product_id": "P005", "qty": 1, "unit_price": 31075.91, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 24}}
+{"order_id": "NC-100838", "line_no": 2, "product_id": "P015", "qty": 1, "unit_price": 1328.23, "discount_pct": 25, "line_type": "sale", "attributes": {"color": "beige", "gift_wrap": true}}
+{"order_id": "NC-100593", "line_no": 1, "product_id": "P015", "qty": 2, "unit_price": "1219.46", "discount_pct": 5, "line_type": "sale", "attributes": {"color": "beige", "gift_wrap": false}}
+{"order_id": "NC-100551", "line_no": 1, "product_id": "P004", "qty": 2, "unit_price": 13522.24, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 12}}
+{"order_id": "NC-100873", "line_no": 3, "product_id": "P005", "qty": 1, "unit_price": 307.37, "discount_pct": 12.5, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 6}}
+{"order_id": "NC-100587", "line_no": 1, "product_id": "P020", "qty": 2, "unit_price": 55.88, "discount_pct": 25, "line_type": "sale", "attributes": {"color": "black", "size": "M"}}
+{"order_id": "NC-100532", "line_no": 1, "product_id": "P016", "qty": 1, "unit_price": 102.83, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "beige", "gift_wrap": false}}
+{"order_id": "NC-100550", "line_no": 1, "product_id": "P004", "qty": 1, "unit_price": 13605.15, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 24}}
+{"order_id": "NC-100909", "line_no": 3, "product_id": "P022", "qty": 1, "unit_price": 53.41, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "black", "size": "M"}}
+{"order_id": "NC-100783", "line_no": 1, "product_id": "P038", "qty": 3, "unit_price": 16.01, "discount_pct": 20, "line_type": "sale", "attributes": {"format": "hardcover", "gift_wrap": false}}
+{"order_id": "NC-100699", "line_no": 1, "product_id": "P007", "qty": 1, "unit_price": 400.97, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 12}}
+{"order_id": "NC-100799", "line_no": 3, "product_id": "P040", "qty": 3, "unit_price": 28.82, "discount_pct": 20, "line_type": "sale", "attributes": {"format": "paperback", "gift_wrap": false}}
+{"order_id": "NC-100893", "line_no": 1, "product_id": "P019", "qty": 2, "unit_price": 48.05, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "navy", "size": "L"}}
+{"order_id": "NC-100925", "line_no": 1, "product_id": "P024", "qty": 2, "unit_price": 7747.4, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "black", "size": "L"}}
+{"order_id": "NC-100794", "line_no": 1, "product_id": "P033", "qty": 1, "unit_price": 5221.56, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "orange", "size": "L"}}
+{"order_id": "NC-100687", "line_no": 1, "product_id": "P016", "qty": 2, "unit_price": 74.34, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "grey", "gift_wrap": false}}
+{"order_id": "NC-100912", "line_no": 4, "product_id": "P014", "qty": 3, "unit_price": 26.64, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "green", "gift_wrap": false}}
+{"order_id": "NC-100938", "line_no": 1, "product_id": "P023", "qty": 1, "unit_price": 6580.35, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "olive", "size": "M"}}
+{"order_id": "NC-100509", "line_no": 2, "product_id": "P004", "qty": 3, "unit_price": 176.58, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 12}}
+{"order_id": "NC-100723", "line_no": 1, "product_id": "P006", "qty": 1, "unit_price": 31754.23, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 24}}
+{"order_id": "NC-100450", "line_no": 2, "product_id": "P028", "qty": -1, "unit_price": 36.99, "discount_pct": 15, "line_type": "return", "attributes": {"reason": "not_as_described"}}
+{"order_id": "NC-100486", "line_no": 3, "product_id": "P016", "qty": -1, "unit_price": 102.07, "discount_pct": "0", "line_type": "return", "attributes": {"reason": "changed_mind"}}
+{"order_id": "NC-100498", "line_no": 1, "product_id": "P018", "qty": 2, "unit_price": 2438.51, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "green", "gift_wrap": false}}
+{"order_id": "NC-100876", "line_no": 2, "product_id": "P007", "qty": 1, "unit_price": 444.14, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 6}}
+{"order_id": "NC-100523", "line_no": 1, "product_id": "P028", "qty": 3, "unit_price": 3356.55, "discount_pct": 15, "line_type": "sale", "attributes": {"volume_ml": 50, "gift_wrap": false}}
+{"order_id": "NC-100686", "line_no": 1, "product_id": "P002", "qty": 3, "unit_price": 171.8, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 24}}
+{"order_id": "NC-100866", "line_no": 2, "product_id": "P003", "qty": 1, "unit_price": 32207.61, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 6}}
+{"order_id": "NC-100631", "line_no": 1, "product_id": "P033", "qty": 1, "unit_price": 61.9, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "orange", "size": "L"}}
+{"order_id": "NC-100875", "line_no": 3, "product_id": "P010", "qty": 1, "unit_price": 135.2, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 12}}
+{"order_id": "NC-100571", "line_no": 3, "product_id": "P015", "qty": 1, "unit_price": 11.99, "discount_pct": null, "line_type": "sale", "attributes": {"color": "green", "gift_wrap": false}}
+{"order_id": "NC-100105", "line_no": 4, "product_id": "P021", "qty": -1, "unit_price": 3814.08, "discount_pct": null, "line_type": "return", "attributes": {"reason": "wrong_size"}}
+{"order_id": "NC-100519", "line_no": 4, "product_id": "P035", "qty": 1, "unit_price": "11035.22", "discount_pct": null, "line_type": "sale", "attributes": {"color": "blue", "size": "std"}}
+{"order_id": "NC-100700", "line_no": 2, "product_id": "P021", "qty": 1, "unit_price": 44.19, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "red", "size": "XL"}}
+{"order_id": "NC-100800", "line_no": 2, "product_id": "P002", "qty": 2, "unit_price": 17199.05, "discount_pct": null, "line_type": "sale", "attributes": null}
+{"order_id": "NC-100940", "line_no": 4, "product_id": "P030", "qty": 1, "unit_price": 829.18, "discount_pct": 20, "line_type": "sale", "attributes": {"volume_ml": 100, "gift_wrap": false}}
+{"order_id": "NC-100816", "line_no": 4, "product_id": "P002", "qty": 2, "unit_price": 245.85, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 24}}
+{"order_id": "NC-100638", "line_no": 2, "product_id": "P006", "qty": 2, "unit_price": 30759.17, "discount_pct": null, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 12}}
+{"order_id": "NC-100646", "line_no": 4, "product_id": "P017", "qty": 1, "unit_price": 77.78, "discount_pct": null, "line_type": "sale", "attributes": {"color": "beige", "gift_wrap": false}}
+{"order_id": "NC-100679", "line_no": 1, "product_id": "P019", "qty": 2, "unit_price": 4878.63, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "navy", "size": "L"}}
+{"order_id": "NC-100725", "line_no": 4, "product_id": "P009", "qty": 2, "unit_price": 22716.89, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 6}}
+{"order_id": "NC-100218", "line_no": 4, "product_id": "P001", "qty": -1, "unit_price": 192.29, "discount_pct": 20, "line_type": "return", "attributes": {"reason": "not_as_described"}}
+{"order_id": "NC-100900", "line_no": 2, "product_id": "P008", "qty": 1, "unit_price": 45.99, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 24}}
+{"order_id": "NC-100715", "line_no": 1, "product_id": "P032", "qty": 1, "unit_price": 4772.33, "discount_pct": 15, "line_type": "sale", "attributes": {"volume_ml": 30, "gift_wrap": true}}
+{"order_id": "NC-100881", "line_no": 1, "product_id": "P027", "qty": 2, "unit_price": 33.94, "discount_pct": 10, "line_type": "sale", "attributes": null}
+{"order_id": "NC-100842", "line_no": 1, "product_id": "P037", "qty": 1, "unit_price": 9091.81, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "blue", "size": "std"}}
+{"order_id": "NC-100827", "line_no": 1, "product_id": "P009", "qty": 3, "unit_price": 214.69, "discount_pct": 15, "line_type": "sale", "attributes": null}
+{"order_id": "NC-100943", "line_no": 2, "product_id": "P003", "qty": 1, "unit_price": 379.51, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 6}}
+{"order_id": "NC-100624", "line_no": 1, "product_id": "P006", "qty": 1, "unit_price": 490.58, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 6}}
+{"order_id": "NC-100829", "line_no": 1, "product_id": "P028", "qty": 1, "unit_price": 3306.66, "discount_pct": 15, "line_type": "sale", "attributes": {"volume_ml": 100, "gift_wrap": false}}
+{"order_id": "NC-100571", "line_no": 1, "product_id": "P032", "qty": 2, "unit_price": 38.52, "discount_pct": 0, "line_type": "sale", "attributes": {"volume_ml": 100, "gift_wrap": true}}
+{"order_id": "NC-100804", "line_no": 2, "product_id": "P032", "qty": 1, "unit_price": 51.05, "discount_pct": 10, "line_type": "sale", "attributes": {"volume_ml": 100, "gift_wrap": false}}
+{"order_id": "NC-100615", "line_no": 1, "product_id": "P027", "qty": 1, "unit_price": 2855.84, "discount_pct": 0, "line_type": "sale", "attributes": {"volume_ml": 30, "gift_wrap": true}}
+{"order_id": "NC-100621", "line_no": 1, "product_id": "P015", "qty": 2, "unit_price": 1235.3, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "white", "gift_wrap": true}}
+{"order_id": "NC-100830", "line_no": 2, "product_id": "P013", "qty": 2, "unit_price": 13.67, "discount_pct": 12.5, "line_type": "sale", "attributes": {"color": "green", "gift_wrap": true}}
+{"order_id": "NC-100913", "line_no": 1, "product_id": "P010", "qty": 1, "unit_price": 172.5, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 24}}
+{"order_id": "NC-100929", "line_no": 3, "product_id": "P038", "qty": 2, "unit_price": 18.39, "discount_pct": 0, "line_type": "sale", "attributes": {"format": "paperback", "gift_wrap": false}}
+{"order_id": "NC-100921", "line_no": 1, "product_id": "P008", "qty": 2, "unit_price": 42.21, "discount_pct": null, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 12}}
+{"order_id": "NC-100744", "line_no": 1, "product_id": "P010", "qty": 1, "unit_price": 16354.73, "discount_pct": 12.5, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 6}}
+{"order_id": "NC-100928", "line_no": 3, "product_id": "P022", "qty": 1, "unit_price": 79.27, "discount_pct": null, "line_type": "sale", "attributes": {"color": "navy", "size": "L"}}
+{"order_id": "NC-100682", "line_no": 1, "product_id": "P006", "qty": 3, "unit_price": 339.6, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 6}}
+{"order_id": "NC-100826", "line_no": 2, "product_id": "P035", "qty": 2, "unit_price": 119.22, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "blue", "size": "L"}}
+{"order_id": "NC-100720", "line_no": 3, "product_id": "P029", "qty": 1, "unit_price": 50.76, "discount_pct": 12.5, "line_type": "sale", "attributes": {"volume_ml": 100, "gift_wrap": true}}
+{"order_id": "NC-100674", "line_no": 1, "product_id": "P006", "qty": 1, "unit_price": "299.77", "discount_pct": 5, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 12}}
+{"order_id": "NC-100792", "line_no": 3, "product_id": "P036", "qty": 2, "unit_price": 5292.6, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "black", "size": "L"}}
+{"order_id": "NC-100686", "line_no": 2, "product_id": "P009", "qty": 1, "unit_price": 254.46, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 24}}
+{"order_id": "NC-100773", "line_no": 3, "product_id": "P006", "qty": 2, "unit_price": 31231.47, "discount_pct": 20, "line_type": "sale", "attributes": null}
+{"order_id": "NC-100816", "line_no": 2, "product_id": "P004", "qty": 1, "unit_price": 208.06, "discount_pct": null, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 12}}
+{"order_id": "NC-100752", "line_no": 1, "product_id": "P008", "qty": 3, "unit_price": 34.65, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 6}}
+{"order_id": "NC-100924", "line_no": 1, "product_id": "P001", "qty": 2, "unit_price": 15473.32, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 12}}
+{"order_id": "NC-100517", "line_no": 1, "product_id": "P009", "qty": 2, "unit_price": 203.2, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 6}}
+{"order_id": "NC-100417", "line_no": 4, "product_id": "P009", "qty": -1, "unit_price": 23027.48, "discount_pct": 12.5, "line_type": "return", "attributes": {"reason": "wrong_size"}}
+{"order_id": "NC-100507", "line_no": 2, "product_id": "P039", "qty": 1, "unit_price": 550.76, "discount_pct": 0, "line_type": "sale", "attributes": {"format": "hardcover", "gift_wrap": false}}
+{"order_id": "NC-100704", "line_no": 1, "product_id": "P003", "qty": 2, "unit_price": 374.59, "discount_pct": null, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 6}}
+{"order_id": "NC-100935", "line_no": 1, "product_id": "P012", "qty": 2, "unit_price": 3993.11, "discount_pct": 25, "line_type": "sale", "attributes": {"color": "white", "gift_wrap": true}}
+{"order_id": "NC-100661", "line_no": 1, "product_id": "P023", "qty": 1, "unit_price": 81.82, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "navy", "size": "S"}}
+{"order_id": "NC-100691", "line_no": 1, "product_id": "P033", "qty": 2, "unit_price": 54.45, "discount_pct": null, "line_type": "sale", "attributes": {"color": "orange", "size": "L"}}
+{"order_id": "NC-100569", "line_no": 2, "product_id": "P006", "qty": 2, "unit_price": 380.66, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 12}}
+{"order_id": "NC-100637", "line_no": 1, "product_id": "P020", "qty": 2, "unit_price": 54.46, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "red", "size": "S"}}
+{"order_id": "NC-100503", "line_no": 1, "product_id": "P006", "qty": 1, "unit_price": 31661.92, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 12}}
+{"order_id": "NC-100638", "line_no": 1, "product_id": "P007", "qty": 2, "unit_price": 33669.15, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 12}}
+{"order_id": "NC-100504", "line_no": 3, "product_id": "P006", "qty": 2, "unit_price": 290.34, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 12}}
+{"order_id": "NC-100810", "line_no": 2, "product_id": "P009", "qty": 1, "unit_price": 22921.65, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 12}}
+{"order_id": "NC-100892", "line_no": 2, "product_id": "P037", "qty": 1, "unit_price": 94.19, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "orange", "size": "std"}}
+{"order_id": "NC-100557", "line_no": 1, "product_id": "P013", "qty": 1, "unit_price": 11.2, "discount_pct": null, "line_type": "sale", "attributes": {"color": "beige", "gift_wrap": false}}
+{"order_id": "NC-100640", "line_no": 2, "product_id": "P020", "qty": 1, "unit_price": "49.40", "discount_pct": null, "line_type": "sale", "attributes": null}
+{"order_id": "NC-100904", "line_no": 1, "product_id": "P003", "qty": 1, "unit_price": "360.21", "discount_pct": 15, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 24}}
+{"order_id": "NC-100575", "line_no": 1, "product_id": "P006", "qty": 1, "unit_price": 405.14, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 24}}
+{"order_id": "NC-100722", "line_no": 1, "product_id": "P023", "qty": 1, "unit_price": 59.42, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "navy", "size": "XL"}}
+{"order_id": "NC-100793", "line_no": 3, "product_id": "P007", "qty": 1, "unit_price": 422.45, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 24}}
+{"order_id": "NC-100669", "line_no": 1, "product_id": "P017", "qty": 1, "unit_price": 6493.73, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "green", "gift_wrap": false}}
+{"order_id": "NC-100681", "line_no": 1, "product_id": "P017", "qty": 1, "unit_price": 79.39, "discount_pct": 20, "line_type": "sale", "attributes": null}
+{"order_id": "NC-100337", "line_no": 2, "product_id": "P015", "qty": -2, "unit_price": 16.12, "discount_pct": 10, "line_type": "return", "attributes": {"reason": "wrong_size"}}
+{"order_id": "NC-100545", "line_no": 2, "product_id": "P002", "qty": 1, "unit_price": 153.19, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 6}}
+{"order_id": "NC-100543", "line_no": 1, "product_id": "P008", "qty": 1, "unit_price": 49.63, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 12}}
+{"order_id": "NC-100678", "line_no": 3, "product_id": "P004", "qty": 3, "unit_price": 120.6, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 6}}
+{"order_id": "NC-990107", "line_no": 1, "product_id": "P027", "qty": 3, "unit_price": 32.11, "discount_pct": null, "line_type": "sale", "attributes": {"volume_ml": 100, "gift_wrap": false}}
+{"order_id": "NC-100920", "line_no": 1, "product_id": "P009", "qty": 2, "unit_price": 23101.73, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 12}}
+{"order_id": "NC-100305", "line_no": 2, "product_id": "P040", "qty": -1, "unit_price": 21.93, "discount_pct": null, "line_type": "return", "attributes": {"reason": "wrong_size"}}
+{"order_id": "NC-100621", "line_no": 3, "product_id": "P003", "qty": 1, "unit_price": 31106.06, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 24}}
+{"order_id": "NC-100620", "line_no": 2, "product_id": "P004", "qty": 1, "unit_price": 13371.97, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 24}}
+{"order_id": "NC-100478", "line_no": 2, "product_id": "P005", "qty": -1, "unit_price": 27279.85, "discount_pct": "0", "line_type": "return", "attributes": {"reason": "wrong_size"}}
+{"order_id": "NC-100703", "line_no": 3, "product_id": "P015", "qty": 1, "unit_price": 11.7, "discount_pct": 10, "line_type": "sale", "attributes": null}
+{"order_id": "NC-100940", "line_no": 2, "product_id": "P004", "qty": 1, "unit_price": 14225.65, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 12}}
+{"order_id": "NC-100695", "line_no": 2, "product_id": "P033", "qty": 1, "unit_price": 57.96, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "black", "size": "std"}}
+{"order_id": "NC-100689", "line_no": 2, "product_id": "P007", "qty": 1, "unit_price": 436.61, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 6}}
+{"order_id": "NC-100534", "line_no": 4, "product_id": "P003", "qty": 2, "unit_price": 32795.46, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 6}}
+{"order_id": "NC-100726", "line_no": 2, "product_id": "P005", "qty": 1, "unit_price": 294.25, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 6}}
+{"order_id": "NC-100727", "line_no": 1, "product_id": "P007", "qty": 1, "unit_price": 37205.04, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 24}}
+{"order_id": "NC-100592", "line_no": 1, "product_id": "P025", "qty": 1, "unit_price": 77.53, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "red", "size": "L"}}
+{"order_id": "NC-100821", "line_no": 3, "product_id": "P001", "qty": 2, "unit_price": 15615.61, "discount_pct": 25, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 12}}
+{"order_id": "NC-100576", "line_no": 3, "product_id": "P006", "qty": 2, "unit_price": 279.62, "discount_pct": null, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 12}}
+{"order_id": "NC-100880", "line_no": 1, "product_id": "P009", "qty": 1, "unit_price": 256.01, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 12}}
+{"order_id": "NC-100936", "line_no": 1, "product_id": "P005", "qty": 2, "unit_price": 344.87, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 24}}
+{"order_id": "NC-100743", "line_no": 1, "product_id": "P007", "qty": 2, "unit_price": 38046.49, "discount_pct": 25, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 12}}
+{"order_id": "NC-100844", "line_no": 1, "product_id": "P004", "qty": 2, "unit_price": 156.13, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 24}}
+{"order_id": "NC-100585", "line_no": 1, "product_id": "P037", "qty": 1, "unit_price": 9260.28, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "orange", "size": "std"}}
+{"order_id": "NC-100510", "line_no": 2, "product_id": "P036", "qty": 1, "unit_price": 5412.62, "discount_pct": null, "line_type": "sale", "attributes": {"color": "orange", "size": "std"}}
+{"order_id": "NC-100539", "line_no": 3, "product_id": "P022", "qty": -1, "unit_price": 57.21, "discount_pct": 10, "line_type": "return", "attributes": {"reason": "changed_mind"}}
+{"order_id": "NC-100793", "line_no": 2, "product_id": "P018", "qty": 2, "unit_price": 28.08, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "grey", "gift_wrap": false}}
+{"order_id": "NC-100242", "line_no": 1, "product_id": "P018", "qty": 3, "unit_price": 2359.01, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "beige", "gift_wrap": false}}
+{"order_id": "NC-100846", "line_no": 3, "product_id": "P007", "qty": 1, "unit_price": 34076.39, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 12}}
+{"order_id": "NC-100599", "line_no": 1, "product_id": "P023", "qty": 3, "unit_price": 77.6, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "red", "size": "XL"}}
+{"order_id": "NC-100656", "line_no": 1, "product_id": "P035", "qty": 2, "unit_price": 126.13, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "black", "size": "L"}}
+{"order_id": "NC-100566", "line_no": 4, "product_id": "P040", "qty": 4, "unit_price": 2376.94, "discount_pct": 20, "line_type": "sale", "attributes": {"format": "hardcover", "gift_wrap": false}}
+{"order_id": "NC-100747", "line_no": 3, "product_id": "P031", "qty": 2, "unit_price": 30.21, "discount_pct": 12.5, "line_type": "sale", "attributes": {"volume_ml": 100, "gift_wrap": true}}
+{"order_id": "NC-100528", "line_no": 3, "product_id": "P012", "qty": 1, "unit_price": 4258.85, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "green", "gift_wrap": true}}
+{"order_id": "NC-100666", "line_no": 2, "product_id": "P039", "qty": 5, "unit_price": 570.96, "discount_pct": 12.5, "line_type": "sale", "attributes": {"format": "paperback", "gift_wrap": false}}
+{"order_id": "NC-100590", "line_no": 1, "product_id": "P038", "qty": 1, "unit_price": 1486.55, "discount_pct": 0, "line_type": "sale", "attributes": {"format": "paperback", "gift_wrap": false}}
+{"order_id": "NC-100579", "line_no": 1, "product_id": "P006", "qty": 1, "unit_price": 31077.4, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 6}}
+{"order_id": "NC-100919", "line_no": 2, "product_id": "P028", "qty": 1, "unit_price": 39.14, "discount_pct": null, "line_type": "sale", "attributes": {"volume_ml": 50, "gift_wrap": false}}
+{"order_id": "NC-100876", "line_no": 1, "product_id": "P019", "qty": 3, "unit_price": 52.61, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "olive", "size": "S"}}
+{"order_id": "NC-100804", "line_no": 4, "product_id": "P012", "qty": 1, "unit_price": 48.86, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "white", "gift_wrap": false}}
+{"order_id": "NC-100519", "line_no": 3, "product_id": "P030", "qty": 1, "unit_price": "909.66", "discount_pct": 0, "line_type": "sale", "attributes": {"volume_ml": 30, "gift_wrap": false}}
+{"order_id": "NC-100644", "line_no": 2, "product_id": "P039", "qty": 2, "unit_price": "6.65", "discount_pct": 10, "line_type": "sale", "attributes": {"format": "paperback", "gift_wrap": true}}
+{"order_id": "NC-100789", "line_no": 2, "product_id": "P020", "qty": 1, "unit_price": 4301.65, "discount_pct": null, "line_type": "sale", "attributes": {"color": "olive", "size": "S"}}
+{"order_id": "NC-100922", "line_no": 3, "product_id": "P012", "qty": 1, "unit_price": 3993.16, "discount_pct": 5, "line_type": "sale", "attributes": null}
+{"order_id": "NC-100700", "line_no": 3, "product_id": "P009", "qty": 1, "unit_price": 268.81, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 6}}
+{"order_id": "NC-100604", "line_no": 1, "product_id": "P020", "qty": 1, "unit_price": 4414.05, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "black", "size": "XL"}}
+{"order_id": "NC-100534", "line_no": 5, "product_id": "P021", "qty": -1, "unit_price": 3477.65, "discount_pct": 15, "line_type": "return", "attributes": {"reason": "wrong_size"}}
+{"order_id": "NC-100857", "line_no": 3, "product_id": "P032", "qty": 2, "unit_price": 38.13, "discount_pct": 5, "line_type": "sale", "attributes": {"volume_ml": 30, "gift_wrap": false}}
+{"order_id": "NC-100084", "line_no": 3, "product_id": "P031", "qty": -1, "unit_price": 23.33, "discount_pct": 20, "line_type": "return", "attributes": {"reason": "not_as_described"}}
+{"order_id": "NC-100726", "line_no": 3, "product_id": "P015", "qty": 1, "unit_price": 13.19, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "green", "gift_wrap": false}}
+{"order_id": "NC-100895", "line_no": 2, "product_id": "P016", "qty": 1, "unit_price": 8175.7, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "white", "gift_wrap": false}}
+{"order_id": "NC-100732", "line_no": 1, "product_id": "P024", "qty": 2, "unit_price": 7059.55, "discount_pct": null, "line_type": "sale", "attributes": null}
+{"order_id": "NC-100895", "line_no": 3, "product_id": "P011", "qty": 1, "unit_price": 8862.15, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "green", "gift_wrap": false}}
+{"order_id": "NC-100798", "line_no": 1, "product_id": "P033", "qty": 2, "unit_price": 64.01, "discount_pct": 25, "line_type": "sale", "attributes": {"color": "orange", "size": "L"}}
+{"order_id": "NC-100937", "line_no": 1, "product_id": "P009", "qty": 2, "unit_price": 24231.73, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 24}}
+{"order_id": "NC-100534", "line_no": 1, "product_id": "P002", "qty": 1, "unit_price": 17778.76, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 6}}
+{"order_id": "NC-100915", "line_no": 1, "product_id": "P001", "qty": 1, "unit_price": 173.62, "discount_pct": "15", "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 24}}
+{"order_id": "NC-100843", "line_no": 1, "product_id": "P024", "qty": 1, "unit_price": 88.13, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "navy", "size": "L"}}
+{"order_id": "NC-100664", "line_no": 1, "product_id": "P032", "qty": 3, "unit_price": 4632.8, "discount_pct": 10, "line_type": "sale", "attributes": {"volume_ml": 30, "gift_wrap": false}}
+{"order_id": "NC-100516", "line_no": 1, "product_id": "P018", "qty": 1, "unit_price": 2360.93, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "grey", "gift_wrap": false}}
+{"order_id": "NC-100924", "line_no": 3, "product_id": "P012", "qty": 1, "unit_price": 4038.59, "discount_pct": 25, "line_type": "sale", "attributes": {"color": "white", "gift_wrap": false}}
+{"order_id": "NC-100832", "line_no": 3, "product_id": "P040", "qty": 1, "unit_price": 26.83, "discount_pct": 0, "line_type": "sale", "attributes": {"format": "paperback", "gift_wrap": true}}
+{"order_id": "NC-100534", "line_no": 6, "product_id": "P002", "qty": -1, "unit_price": 17778.76, "discount_pct": 10, "line_type": "return", "attributes": {"reason": "not_as_described"}}
+{"order_id": "NC-100565", "line_no": 4, "product_id": "P014", "qty": 2, "unit_price": 19.23, "discount_pct": 25, "line_type": "sale", "attributes": {"color": "white", "gift_wrap": true}}
+{"order_id": "NC-100175", "line_no": 1, "product_id": "P010", "qty": 2, "unit_price": 240.83, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 12}}
+{"order_id": "NC-100538", "line_no": 1, "product_id": "P034", "qty": 2, "unit_price": 110.52, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "black", "size": "std"}}
+{"order_id": "NC-100746", "line_no": 2, "product_id": "P004", "qty": 1, "unit_price": 14462.26, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 24}}
+{"order_id": "NC-100662", "line_no": 1, "product_id": "P039", "qty": 3, "unit_price": 6.23, "discount_pct": 0, "line_type": "sale", "attributes": {"format": "hardcover", "gift_wrap": false}}
+{"order_id": "NC-100841", "line_no": 3, "product_id": "P038", "qty": 3, "unit_price": 1465.15, "discount_pct": null, "line_type": "sale", "attributes": {"format": "hardcover", "gift_wrap": false}}
+{"order_id": "NC-100767", "line_no": 2, "product_id": "P007", "qty": 1, "unit_price": 305.28, "discount_pct": null, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 12}}
+{"order_id": "NC-100518", "line_no": 1, "product_id": "P001", "qty": 1, "unit_price": 186.21, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 12}}
+{"order_id": "NC-100670", "line_no": 3, "product_id": "P032", "qty": 1, "unit_price": 42.36, "discount_pct": null, "line_type": "sale", "attributes": {"volume_ml": 100, "gift_wrap": false}}
+{"order_id": "NC-100810", "line_no": 3, "product_id": "P013", "qty": 2, "unit_price": 930.57, "discount_pct": null, "line_type": "sale", "attributes": {"color": "green", "gift_wrap": false}}
+{"order_id": "NC-100612", "line_no": 1, "product_id": "P019", "qty": 1, "unit_price": 58.93, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "black", "size": "M"}}
+{"order_id": "NC-100749", "line_no": 2, "product_id": "P031", "qty": 1, "unit_price": 2752.75, "discount_pct": null, "line_type": "sale", "attributes": {"volume_ml": 30, "gift_wrap": true}}
+{"order_id": "NC-100931", "line_no": 1, "product_id": "P103", "qty": 1, "unit_price": 4435.69, "discount_pct": null, "line_type": "sale", "attributes": {"color": "red", "size": "S"}}
+{"order_id": "NC-100915", "line_no": 2, "product_id": "P011", "qty": 1, "unit_price": 95.62, "discount_pct": null, "line_type": "sale", "attributes": {"color": "green", "gift_wrap": false}}
+{"order_id": "NC-100660", "line_no": 1, "product_id": "P009", "qty": 3, "unit_price": 22812.38, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 12}}
+{"order_id": "NC-100582", "line_no": 3, "product_id": "P003", "qty": 1, "unit_price": 483.22, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 12}}
+{"order_id": "NC-100515", "line_no": 2, "product_id": "P011", "qty": 1, "unit_price": 95.93, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "white", "gift_wrap": false}}
+{"order_id": "NC-100527", "line_no": 2, "product_id": "P028", "qty": 3, "unit_price": 31.66, "discount_pct": 12.5, "line_type": "sale", "attributes": {"volume_ml": 30, "gift_wrap": true}}
+{"order_id": "NC-100907", "line_no": 2, "product_id": "P008", "qty": 1, "unit_price": 33.77, "discount_pct": 5, "line_type": "sale", "attributes": null}
+{"order_id": "NC-100803", "line_no": 3, "product_id": "P007", "qty": 1, "unit_price": 34904.17, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 24}}
+{"order_id": "NC-100822", "line_no": 1, "product_id": "P023", "qty": 1, "unit_price": 6996.58, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "red", "size": "L"}}
+{"order_id": "NC-100600", "line_no": 1, "product_id": "P038", "qty": 5, "unit_price": 1472.27, "discount_pct": 20, "line_type": "sale", "attributes": {"format": "paperback", "gift_wrap": false}}
+{"order_id": "NC-100636", "line_no": 2, "product_id": "P024", "qty": 1, "unit_price": 63.65, "discount_pct": null, "line_type": "sale", "attributes": {"color": "black", "size": "L"}}
+{"order_id": "NC-100751", "line_no": 1, "product_id": "P018", "qty": 1, "unit_price": "21.66", "discount_pct": 0, "line_type": "sale", "attributes": {"color": "white", "gift_wrap": false}}
+{"order_id": "NC-100729", "line_no": 1, "product_id": "P014", "qty": 1, "unit_price": 25.97, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "grey", "gift_wrap": false}}
+{"order_id": "NC-100722", "line_no": 3, "product_id": "P018", "qty": 2, "unit_price": 20.05, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "beige", "gift_wrap": false}}
+{"order_id": "NC-100686", "line_no": 4, "product_id": "P026", "qty": 2, "unit_price": 72.53, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "black", "size": "XL"}}
+{"order_id": "NC-100868", "line_no": 1, "product_id": "P026", "qty": 2, "unit_price": 74.32, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "black", "size": "S"}}
+{"order_id": "NC-100890", "line_no": 1, "product_id": "P008", "qty": 2, "unit_price": 4134.59, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 12}}
+{"order_id": "NC-100547", "line_no": 1, "product_id": "P008", "qty": 1, "unit_price": 4033.1, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 12}}
+{"order_id": "NC-100917", "line_no": 1, "product_id": "P023", "qty": 1, "unit_price": 78.24, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "black", "size": "M"}}
+{"order_id": "NC-100684", "line_no": 1, "product_id": "P016", "qty": 1, "unit_price": 99.25, "discount_pct": 5, "line_type": "sale", "attributes": null}
+{"order_id": "NC-100906", "line_no": 1, "product_id": "P002", "qty": 2, "unit_price": 168.93, "discount_pct": null, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 24}}
+{"order_id": "NC-100514", "line_no": 1, "product_id": "P023", "qty": 2, "unit_price": 6857.46, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "olive", "size": "S"}}
+{"order_id": "NC-100888", "line_no": 1, "product_id": "P007", "qty": 1, "unit_price": 33890.76, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 6}}
+{"order_id": "NC-100748", "line_no": 3, "product_id": "P009", "qty": 2, "unit_price": 24166.84, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 12}}
+{"order_id": "NC-100915", "line_no": 3, "product_id": "P026", "qty": 1, "unit_price": 75.56, "discount_pct": 5, "line_type": "sale", "attributes": null}
+{"order_id": "NC-100598", "line_no": 1, "product_id": "P008", "qty": 1, "unit_price": 4154.21, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 24}}
+{"order_id": "NC-100472", "line_no": 1, "product_id": "P007", "qty": 3, "unit_price": 400.49, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 24}}
+{"order_id": "NC-100753", "line_no": 2, "product_id": "P002", "qty": 2, "unit_price": 16642.01, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 6}}
+{"order_id": "NC-100819", "line_no": 1, "product_id": "P010", "qty": 1, "unit_price": 163.09, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 12}}
+{"order_id": "NC-100616", "line_no": 2, "product_id": "P007", "qty": 2, "unit_price": 411.33, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 12}}
+{"order_id": "NC-100875", "line_no": 2, "product_id": "P012", "qty": 1, "unit_price": 36.39, "discount_pct": 12.5, "line_type": "sale", "attributes": {"color": "beige", "gift_wrap": false}}
+{"order_id": "NC-100773", "line_no": 2, "product_id": "P031", "qty": 3, "unit_price": 2711.38, "discount_pct": 0, "line_type": "sale", "attributes": null}
+{"order_id": "NC-100461", "line_no": 2, "product_id": "P008", "qty": -1, "unit_price": 4271.62, "discount_pct": 10, "line_type": "return", "attributes": {"reason": "damaged"}}
+{"order_id": "NC-100873", "line_no": 2, "product_id": "P009", "qty": 2, "unit_price": 260.78, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 24}}
+{"order_id": "NC-100805", "line_no": 1, "product_id": "P033", "qty": 1, "unit_price": 51.62, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "black", "size": "L"}}
+{"order_id": "NC-100717", "line_no": 3, "product_id": "P014", "qty": 1, "unit_price": 19.26, "discount_pct": 25, "line_type": "sale", "attributes": {"color": "beige", "gift_wrap": false}}
+{"order_id": "NC-100541", "line_no": 4, "product_id": "P018", "qty": 1, "unit_price": 25.78, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "white", "gift_wrap": false}}
+{"order_id": "NC-100506", "line_no": 1, "product_id": "P032", "qty": 1, "unit_price": 4692.57, "discount_pct": 0, "line_type": "sale", "attributes": {"volume_ml": 30, "gift_wrap": false}}
+{"order_id": "NC-100595", "line_no": 1, "product_id": "P037", "qty": 1, "unit_price": 8950.43, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "black", "size": "L"}}
+{"order_id": "NC-100742", "line_no": 1, "product_id": "P036", "qty": 1, "unit_price": 58.97, "discount_pct": null, "line_type": "sale", "attributes": {"color": "blue", "size": "std"}}
+{"order_id": "NC-100627", "line_no": 2, "product_id": "P004", "qty": 2, "unit_price": 157.97, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 12}}
+{"order_id": "NC-100870", "line_no": 1, "product_id": "P023", "qty": 1, "unit_price": 110.54, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "black", "size": "S"}}
+{"order_id": "NC-100580", "line_no": 4, "product_id": "P032", "qty": -1, "unit_price": 40.58, "discount_pct": 0, "line_type": "return", "attributes": {"reason": "not_as_described"}}
+{"order_id": "NC-100595", "line_no": 2, "product_id": "P004", "qty": 3, "unit_price": 14111.28, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 12}}
+{"order_id": "NC-100740", "line_no": 2, "product_id": "P020", "qty": 1, "unit_price": 55.61, "discount_pct": "12.5", "line_type": "sale", "attributes": {"color": "olive", "size": "M"}}
+{"order_id": "NC-100511", "line_no": 4, "product_id": "P034", "qty": 1, "unit_price": 113.93, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "black", "size": "L"}}
+{"order_id": "NC-100507", "line_no": 4, "product_id": "P032", "qty": -2, "unit_price": 4509.29, "discount_pct": 12.5, "line_type": "return", "attributes": {"reason": "wrong_size"}}
+{"order_id": "NC-100347", "line_no": 3, "product_id": "P039", "qty": -1, "unit_price": 563.75, "discount_pct": 0, "line_type": "return", "attributes": {"reason": "changed_mind"}}
+{"order_id": "NC-100594", "line_no": 1, "product_id": "P032", "qty": 3, "unit_price": 48.67, "discount_pct": 5, "line_type": "sale", "attributes": null}
+{"order_id": "NC-100592", "line_no": 1, "product_id": "P025", "qty": 1, "unit_price": 77.53, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "red", "size": "L"}}
+{"order_id": "NC-100626", "line_no": 1, "product_id": "P010", "qty": 1, "unit_price": 175.59, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 6}}
+{"order_id": "NC-100767", "line_no": 1, "product_id": "P005", "qty": 1, "unit_price": 266.77, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 24}}
+{"order_id": "NC-100653", "line_no": 1, "product_id": "P032", "qty": 2, "unit_price": 4725.86, "discount_pct": null, "line_type": "sale", "attributes": {"volume_ml": 50, "gift_wrap": true}}
+{"order_id": "NC-100544", "line_no": 1, "product_id": "P010", "qty": 2, "unit_price": 15017.17, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 12}}
+{"order_id": "NC-100916", "line_no": 1, "product_id": "P013", "qty": 1, "unit_price": 863.22, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "white", "gift_wrap": false}}
+{"order_id": "NC-100665", "line_no": 1, "product_id": "P032", "qty": 2, "unit_price": 67.82, "discount_pct": 10, "line_type": "sale", "attributes": {"volume_ml": 50, "gift_wrap": true}}
+{"order_id": "NC-100932", "line_no": 3, "product_id": "P005", "qty": 1, "unit_price": 29180.18, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 6}}
+{"order_id": "NC-100563", "line_no": 1, "product_id": "P038", "qty": 1, "unit_price": 15.57, "discount_pct": 5, "line_type": "sale", "attributes": {"format": "paperback", "gift_wrap": true}}
+{"order_id": "NC-100898", "line_no": 1, "product_id": "P005", "qty": 2, "unit_price": 368.08, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 6}}
+{"order_id": "NC-100609", "line_no": 1, "product_id": "P035", "qty": 1, "unit_price": 130.23, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "orange", "size": "L"}}
+{"order_id": "NC-100874", "line_no": 1, "product_id": "P020", "qty": 2, "unit_price": 4550.11, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "navy", "size": "S"}}
+{"order_id": "NC-100871", "line_no": 1, "product_id": "P005", "qty": 1, "unit_price": 31072.63, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 6}}
+{"order_id": "NC-100566", "line_no": 1, "product_id": "P013", "qty": 1, "unit_price": 888.22, "discount_pct": 25, "line_type": "sale", "attributes": {"color": "beige", "gift_wrap": false}}
+{"order_id": "NC-100677", "line_no": 1, "product_id": "P027", "qty": 1, "unit_price": 35.99, "discount_pct": 0, "line_type": "sale", "attributes": {"volume_ml": 50, "gift_wrap": true}}
+{"order_id": "NC-100574", "line_no": 1, "product_id": "P010", "qty": 2, "unit_price": 182.12, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 24}}
+{"order_id": "NC-100769", "line_no": 2, "product_id": "P008", "qty": 1, "unit_price": 4219.25, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 12}}
+{"order_id": "NC-100587", "line_no": 3, "product_id": "P005", "qty": 1, "unit_price": 345.84, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 24}}
+{"order_id": "NC-100175", "line_no": 3, "product_id": "P025", "qty": -1, "unit_price": 106.42, "discount_pct": 10, "line_type": "return", "attributes": {"reason": "not_as_described"}}
+{"order_id": "NC-100926", "line_no": 1, "product_id": "P009", "qty": 2, "unit_price": 275.62, "discount_pct": null, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 12}}
+{"order_id": "NC-100500", "line_no": 3, "product_id": "P007", "qty": 1, "unit_price": 451.92, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 12}}
+{"order_id": "NC-100905", "line_no": 3, "product_id": "P035", "qty": 1, "unit_price": 11152.5, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "blue", "size": "std"}}
+{"order_id": "NC-100851", "line_no": 1, "product_id": "P021", "qty": 3, "unit_price": 3629.2, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "navy", "size": "XL"}}
+{"order_id": "NC-100795", "line_no": 3, "product_id": "P031", "qty": 1, "unit_price": 42.11, "discount_pct": 10, "line_type": "sale", "attributes": {"volume_ml": 50, "gift_wrap": false}}
+{"order_id": "NC-100830", "line_no": 1, "product_id": "P022", "qty": 1, "unit_price": 97.79, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "red", "size": "M"}}
+{"order_id": "NC-100297", "line_no": 1, "product_id": "P038", "qty": 4, "unit_price": 22.95, "discount_pct": 0, "line_type": "sale", "attributes": {"format": "paperback", "gift_wrap": false}}
+{"order_id": "NC-100501", "line_no": 2, "product_id": "P001", "qty": -1, "unit_price": 15505.88, "discount_pct": 20, "line_type": "return", "attributes": {"reason": "damaged"}}
+{"order_id": "NC-100581", "line_no": 4, "product_id": "P012", "qty": -1, "unit_price": 3857.59, "discount_pct": 20, "line_type": "return", "attributes": {"reason": "wrong_size"}}
+{"order_id": "NC-100625", "line_no": 1, "product_id": "P008", "qty": 2, "unit_price": 4220.0, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 24}}
+{"order_id": "NC-100236", "line_no": 2, "product_id": "P039", "qty": -2, "unit_price": 604.39, "discount_pct": 10, "line_type": "return", "attributes": {"reason": "not_as_described"}}
+{"order_id": "NC-100577", "line_no": 2, "product_id": "P036", "qty": 1, "unit_price": 66.97, "discount_pct": 25, "line_type": "sale", "attributes": {"color": "blue", "size": "L"}}
+{"order_id": "NC-100635", "line_no": 3, "product_id": "P019", "qty": 2, "unit_price": 4546.61, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "black", "size": "XL"}}
+{"order_id": "NC-100667", "line_no": 1, "product_id": "P026", "qty": 2, "unit_price": 79.42, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "navy", "size": "M"}}
+{"order_id": "NC-100862", "line_no": 1, "product_id": "P015", "qty": 2, "unit_price": 15.13, "discount_pct": null, "line_type": "sale", "attributes": {"color": "grey", "gift_wrap": false}}
+{"order_id": "NC-100500", "line_no": 1, "product_id": "P021", "qty": 1, "unit_price": 45.93, "discount_pct": 5, "line_type": "sale", "attributes": null}
+{"order_id": "NC-100678", "line_no": 2, "product_id": "P010", "qty": 2, "unit_price": 143.35, "discount_pct": 25, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 24}}
+{"order_id": "NC-100630", "line_no": 2, "product_id": "P020", "qty": 2, "unit_price": 46.21, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "navy", "size": "XL"}}
+{"order_id": "NC-100651", "line_no": 1, "product_id": "P016", "qty": 1, "unit_price": 70.5, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "beige", "gift_wrap": false}}
+{"order_id": "NC-100878", "line_no": 1, "product_id": "P017", "qty": 1, "unit_price": "77.05", "discount_pct": 0, "line_type": "sale", "attributes": {"color": "white", "gift_wrap": false}}
+{"order_id": "NC-100725", "line_no": 2, "product_id": "P034", "qty": 1, "unit_price": 12420.33, "discount_pct": 12.5, "line_type": "sale", "attributes": {"color": "orange", "size": "L"}}
+{"order_id": "NC-100528", "line_no": 2, "product_id": "P009", "qty": 1, "unit_price": 24190.03, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 12}}
+{"order_id": "NC-100622", "line_no": 1, "product_id": "P009", "qty": 2, "unit_price": 292.5, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 6}}
+{"order_id": "NC-100904", "line_no": 2, "product_id": "P021", "qty": 2, "unit_price": 37.01, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "olive", "size": "XL"}}
+{"order_id": "NC-100496", "line_no": 2, "product_id": "P006", "qty": 3, "unit_price": 30148.98, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 24}}
+{"order_id": "NC-100786", "line_no": 1, "product_id": "P032", "qty": 1, "unit_price": 4274.8, "discount_pct": 25, "line_type": "sale", "attributes": {"volume_ml": 100, "gift_wrap": false}}
+{"order_id": "NC-100552", "line_no": 3, "product_id": "P005", "qty": 1, "unit_price": 366.85, "discount_pct": 25, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 12}}
+{"order_id": "NC-100923", "line_no": 2, "product_id": "P035", "qty": 1, "unit_price": 10498.74, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "blue", "size": "std"}}
+{"order_id": "NC-100556", "line_no": 2, "product_id": "P005", "qty": 1, "unit_price": 244.25, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 12}}
+{"order_id": "NC-100943", "line_no": 4, "product_id": "P036", "qty": 1, "unit_price": 66.88, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "blue", "size": "std"}}
+{"order_id": "NC-100651", "line_no": 2, "product_id": "P008", "qty": 1, "unit_price": 35.68, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 6}}
+{"order_id": "NC-100527", "line_no": 1, "product_id": "P036", "qty": 1, "unit_price": 52.71, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "black", "size": "std"}}
+{"order_id": "NC-100751", "line_no": 2, "product_id": "P024", "qty": 1, "unit_price": 67.02, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "navy", "size": "XL"}}
+{"order_id": "NC-100500", "line_no": 2, "product_id": "P026", "qty": 1, "unit_price": 81.78, "discount_pct": 25, "line_type": "sale", "attributes": {"color": "black", "size": "S"}}
+{"order_id": "NC-100877", "line_no": 1, "product_id": "P006", "qty": 3, "unit_price": 30647.91, "discount_pct": null, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 24}}
+{"order_id": "NC-100741", "line_no": 3, "product_id": "P004", "qty": 1, "unit_price": 232.02, "discount_pct": 25, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 12}}
+{"order_id": "NC-100736", "line_no": 1, "product_id": "P011", "qty": 2, "unit_price": 102.14, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "white", "gift_wrap": false}}
+{"order_id": "NC-100541", "line_no": 2, "product_id": "P005", "qty": 1, "unit_price": 312.9, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 24}}
+{"order_id": "NC-100815", "line_no": 1, "product_id": "P015", "qty": 1, "unit_price": 10.69, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "grey", "gift_wrap": false}}
+{"order_id": "NC-100605", "line_no": 1, "product_id": "P005", "qty": 1, "unit_price": 29216.02, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 24}}
+{"order_id": "NC-100616", "line_no": 4, "product_id": "P016", "qty": 2, "unit_price": 99.28, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "green", "gift_wrap": false}}
+{"order_id": "NC-100576", "line_no": 2, "product_id": "P026", "qty": 1, "unit_price": 62.4, "discount_pct": null, "line_type": "sale", "attributes": {"color": "black", "size": "XL"}}
+{"order_id": "NC-100854", "line_no": 1, "product_id": "P022", "qty": 1, "unit_price": 6354.24, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "olive", "size": "S"}}
+{"order_id": "NC-100741", "line_no": 1, "product_id": "P030", "qty": 2, "unit_price": "13.69", "discount_pct": 0, "line_type": "sale", "attributes": {"volume_ml": 100, "gift_wrap": false}}
+{"order_id": "NC-100579", "line_no": 2, "product_id": "P006", "qty": -1, "unit_price": 31077.4, "discount_pct": 10, "line_type": "return", "attributes": {"reason": "changed_mind"}}
+{"order_id": "NC-100536", "line_no": 2, "product_id": "P025", "qty": 1, "unit_price": 7193.99, "discount_pct": 12.5, "line_type": "sale", "attributes": {"color": "navy", "size": "L"}}
+{"order_id": "NC-100573", "line_no": 2, "product_id": "P003", "qty": 3, "unit_price": 388.84, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 12}}
+{"order_id": "NC-100547", "line_no": 3, "product_id": "P032", "qty": 2, "unit_price": 4640.44, "discount_pct": 0, "line_type": "sale", "attributes": {"volume_ml": 100, "gift_wrap": false}}
+{"order_id": "NC-100771", "line_no": 1, "product_id": "P029", "qty": 3, "unit_price": 46.5, "discount_pct": 10, "line_type": "sale", "attributes": {"volume_ml": 50, "gift_wrap": false}}
+{"order_id": "NC-100580", "line_no": 3, "product_id": "P040", "qty": 1, "unit_price": 21.7, "discount_pct": 5, "line_type": "sale", "attributes": {"format": "paperback", "gift_wrap": false}}
+{"order_id": "NC-100724", "line_no": 1, "product_id": "P007", "qty": 2, "unit_price": 314.63, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 6}}
+{"order_id": "NC-100502", "line_no": 3, "product_id": "P003", "qty": 1, "unit_price": 33611.98, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 6}}
+{"order_id": "NC-100554", "line_no": 3, "product_id": "P036", "qty": 2, "unit_price": 5621.06, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "blue", "size": "L"}}
+{"order_id": "NC-100941", "line_no": 1, "product_id": "P030", "qty": 2, "unit_price": 10.04, "discount_pct": 5, "line_type": "sale", "attributes": {"volume_ml": 100, "gift_wrap": true}}
+{"order_id": "NC-100596", "line_no": 1, "product_id": "P009", "qty": 1, "unit_price": 24262.12, "discount_pct": 0, "line_type": "sale", "attributes": null}
+{"order_id": "NC-100571", "line_no": 2, "product_id": "P012", "qty": 2, "unit_price": 33.88, "discount_pct": 25, "line_type": "sale", "attributes": {"color": "green", "gift_wrap": false}}
+{"order_id": "NC-100861", "line_no": 2, "product_id": "P033", "qty": 1, "unit_price": 47.71, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "black", "size": "L"}}
+{"order_id": "NC-100768", "line_no": 1, "product_id": "P015", "qty": 2, "unit_price": 1300.0, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "green", "gift_wrap": false}}
+{"order_id": "NC-100712", "line_no": 1, "product_id": "P021", "qty": 1, "unit_price": 57.99, "discount_pct": 5, "line_type": "sale", "attributes": null}
+{"order_id": "NC-100802", "line_no": 1, "product_id": "P008", "qty": 1, "unit_price": 49.94, "discount_pct": "5", "line_type": "sale", "attributes": {"color": "black", "warranty_months": 6}}
+{"order_id": "NC-100636", "line_no": 1, "product_id": "P007", "qty": 2, "unit_price": 300.08, "discount_pct": 25, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 6}}
+{"order_id": "NC-100891", "line_no": 1, "product_id": "P101", "qty": 3, "unit_price": 31494.54, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 24}}
+{"order_id": "NC-100799", "line_no": 2, "product_id": "P011", "qty": 1, "unit_price": 99.9, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "white", "gift_wrap": true}}
+{"order_id": "NC-100643", "line_no": 1, "product_id": "P039", "qty": 2, "unit_price": 5.28, "discount_pct": 0, "line_type": "sale", "attributes": {"format": "paperback", "gift_wrap": false}}
+{"order_id": "NC-100717", "line_no": 2, "product_id": "P011", "qty": 1, "unit_price": 93.74, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "beige", "gift_wrap": false}}
+{"order_id": "NC-100739", "line_no": 1, "product_id": "P029", "qty": 3, "unit_price": 48.23, "discount_pct": null, "line_type": "sale", "attributes": {"volume_ml": 100, "gift_wrap": true}}
+{"order_id": "NC-100535", "line_no": 3, "product_id": "P027", "qty": -2, "unit_price": 36.03, "discount_pct": 5, "line_type": "return", "attributes": {"reason": "wrong_size"}}
+{"order_id": "NC-100943", "line_no": 3, "product_id": "P008", "qty": 3, "unit_price": 50.65, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 6}}
+{"order_id": "NC-100655", "line_no": 1, "product_id": "P030", "qty": 1, "unit_price": 9.93, "discount_pct": 12.5, "line_type": "sale", "attributes": {"volume_ml": 50, "gift_wrap": false}}
+{"order_id": "NC-100137", "line_no": 2, "product_id": "P002", "qty": -1, "unit_price": 16077.0, "discount_pct": 0, "line_type": "return", "attributes": {"reason": "changed_mind"}}
+{"order_id": "NC-100925", "line_no": 2, "product_id": "P010", "qty": 2, "unit_price": 14733.8, "discount_pct": null, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 12}}
+{"order_id": "NC-100860", "line_no": 2, "product_id": "P031", "qty": 1, "unit_price": 23.9, "discount_pct": 15, "line_type": "sale", "attributes": {"volume_ml": 50, "gift_wrap": false}}
+{"order_id": "NC-100804", "line_no": 1, "product_id": "P035", "qty": 1, "unit_price": 133.5, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "orange", "size": "L"}}
+{"order_id": "NC-100760", "line_no": 1, "product_id": "P005", "qty": 1, "unit_price": 28383.05, "discount_pct": null, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 12}}
+{"order_id": "NC-100921", "line_no": 3, "product_id": "P032", "qty": 1, "unit_price": 45.91, "discount_pct": null, "line_type": "sale", "attributes": {"volume_ml": 50, "gift_wrap": false}}
+{"order_id": "NC-100870", "line_no": 2, "product_id": "P035", "qty": 1, "unit_price": 159.41, "discount_pct": null, "line_type": "sale", "attributes": {"color": "blue", "size": "L"}}
+{"order_id": "NC-100732", "line_no": 3, "product_id": "P009", "qty": 1, "unit_price": 22711.24, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 24}}
+{"order_id": "NC-100909", "line_no": 2, "product_id": "P035", "qty": 1, "unit_price": 93.71, "discount_pct": null, "line_type": "sale", "attributes": {"color": "blue", "size": "L"}}
+{"order_id": "NC-100624", "line_no": 3, "product_id": "P013", "qty": 3, "unit_price": 14.52, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "beige", "gift_wrap": false}}
+{"order_id": "NC-100764", "line_no": 1, "product_id": "P001", "qty": 1, "unit_price": 14984.21, "discount_pct": null, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 6}}
+{"order_id": "NC-100636", "line_no": 4, "product_id": "P007", "qty": -1, "unit_price": 300.08, "discount_pct": 25, "line_type": "return", "attributes": {"reason": "damaged"}}
+{"order_id": "NC-100849", "line_no": 3, "product_id": "P002", "qty": 2, "unit_price": 17692.7, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 6}}
+{"order_id": "NC-100508", "line_no": 1, "product_id": "P018", "qty": 1, "unit_price": 20.21, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "grey", "gift_wrap": false}}
+{"order_id": "NC-100777", "line_no": 1, "product_id": "P020", "qty": 2, "unit_price": 49.86, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "black", "size": "S"}}
+{"order_id": "NC-100518", "line_no": 2, "product_id": "P012", "qty": 1, "unit_price": 50.05, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "grey", "gift_wrap": false}}
+{"order_id": "NC-100710", "line_no": 3, "product_id": "P037", "qty": 3, "unit_price": 115.54, "discount_pct": null, "line_type": "sale", "attributes": {"color": "orange", "size": "L"}}
+{"order_id": "NC-100530", "line_no": 1, "product_id": "P019", "qty": 1, "unit_price": 74.13, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "olive", "size": "L"}}
+{"order_id": "NC-100875", "line_no": 1, "product_id": "P009", "qty": 1, "unit_price": 201.42, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 12}}
+{"order_id": "NC-100887", "line_no": 1, "product_id": "P004", "qty": 1, "unit_price": 120.23, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 12}}
+{"order_id": "NC-100653", "line_no": 2, "product_id": "P009", "qty": 1, "unit_price": 23375.71, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 24}}
+{"order_id": "NC-100294", "line_no": 4, "product_id": "P007", "qty": -1, "unit_price": 337.78, "discount_pct": 0, "line_type": "return", "attributes": {"reason": "damaged"}}
+{"order_id": "NC-100834", "line_no": 1, "product_id": "P012", "qty": 3, "unit_price": 44.83, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "beige", "gift_wrap": false}}
+{"order_id": "NC-100656", "line_no": 2, "product_id": "P027", "qty": 1, "unit_price": 33.41, "discount_pct": 0, "line_type": "sale", "attributes": {"volume_ml": 30, "gift_wrap": true}}
+{"order_id": "NC-100535", "line_no": 4, "product_id": "P026", "qty": -1, "unit_price": 80.24, "discount_pct": 5, "line_type": "return", "attributes": {"reason": "damaged"}}
+{"order_id": "NC-100841", "line_no": 1, "product_id": "P017", "qty": 1, "unit_price": 6171.65, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "white", "gift_wrap": true}}
+{"order_id": "NC-100690", "line_no": 1, "product_id": "P004", "qty": 1, "unit_price": 13551.63, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 24}}
+{"order_id": "NC-100853", "line_no": 1, "product_id": "P003", "qty": 1, "unit_price": 30901.23, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 12}}
+{"order_id": "NC-100889", "line_no": 1, "product_id": "P038", "qty": 5, "unit_price": 16.24, "discount_pct": 15, "line_type": "sale", "attributes": {"format": "hardcover", "gift_wrap": false}}
+{"order_id": "NC-100518", "line_no": 3, "product_id": "P017", "qty": 1, "unit_price": 78.98, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "white", "gift_wrap": false}}
+{"order_id": "NC-100530", "line_no": 1, "product_id": "P019", "qty": 1, "unit_price": 74.13, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "olive", "size": "L"}}
+{"order_id": "NC-100873", "line_no": 3, "product_id": "P005", "qty": 1, "unit_price": 307.37, "discount_pct": 12.5, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 6}}
+{"order_id": "NC-100531", "line_no": 1, "product_id": "P015", "qty": 1, "unit_price": 16.12, "discount_pct": null, "line_type": "sale", "attributes": {"color": "grey", "gift_wrap": false}}
+{"order_id": "NC-100902", "line_no": 1, "product_id": "P009", "qty": 1, "unit_price": "372.96", "discount_pct": 10, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 6}}
+{"order_id": "NC-100858", "line_no": 2, "product_id": "P001", "qty": 1, "unit_price": 130.98, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 24}}
+{"order_id": "NC-100612", "line_no": 2, "product_id": "P028", "qty": 2, "unit_price": 40.74, "discount_pct": 0, "line_type": "sale", "attributes": {"volume_ml": 100, "gift_wrap": false}}
+{"order_id": "NC-100943", "line_no": 1, "product_id": "P002", "qty": 1, "unit_price": 193.34, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 12}}
+{"order_id": "NC-100849", "line_no": 1, "product_id": "P007", "qty": 1, "unit_price": 35391.68, "discount_pct": 12.5, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 6}}
+{"order_id": "NC-100817", "line_no": 3, "product_id": "P026", "qty": 2, "unit_price": 108.11, "discount_pct": null, "line_type": "sale", "attributes": {"color": "red", "size": "XL"}}
+{"order_id": "NC-100839", "line_no": 1, "product_id": "P008", "qty": 1, "unit_price": 4234.62, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 6}}
+{"order_id": "NC-100779", "line_no": 3, "product_id": "P021", "qty": 1, "unit_price": 3739.19, "discount_pct": 25, "line_type": "sale", "attributes": {"color": "navy", "size": "S"}}
+{"order_id": "NC-990108", "line_no": 1, "product_id": "P026", "qty": 3, "unit_price": 86.12, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "red", "size": "S"}}
+{"order_id": "NC-100747", "line_no": 1, "product_id": "P011", "qty": 2, "unit_price": 101.08, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "beige", "gift_wrap": false}}
+{"order_id": "NC-100910", "line_no": 2, "product_id": "P009", "qty": 1, "unit_price": 203.38, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 12}}
+{"order_id": "NC-100512", "line_no": 1, "product_id": "P013", "qty": 1, "unit_price": 7.95, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "grey", "gift_wrap": false}}
+{"order_id": "NC-100533", "line_no": 2, "product_id": "P006", "qty": 2, "unit_price": 294.2, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 24}}
+{"order_id": "NC-100776", "line_no": 3, "product_id": "P039", "qty": 4, "unit_price": 598.65, "discount_pct": 20, "line_type": "sale", "attributes": {"format": "hardcover", "gift_wrap": false}}
+{"order_id": "NC-100607", "line_no": 1, "product_id": "P036", "qty": 1, "unit_price": 56.38, "discount_pct": 25, "line_type": "sale", "attributes": {"color": "orange", "size": "L"}}
+{"order_id": "NC-100522", "line_no": 1, "product_id": "P024", "qty": 2, "unit_price": 116.26, "discount_pct": null, "line_type": "sale", "attributes": {"color": "olive", "size": "M"}}
+{"order_id": "NC-100860", "line_no": 1, "product_id": "P010", "qty": 1, "unit_price": 135.69, "discount_pct": 12.5, "line_type": "sale", "attributes": null}
+{"order_id": "NC-100569", "line_no": 3, "product_id": "P016", "qty": 1, "unit_price": 105.34, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "white", "gift_wrap": false}}
+{"order_id": "NC-990104", "line_no": 1, "product_id": "P014", "qty": 3, "unit_price": 21.52, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "grey", "gift_wrap": false}}
+{"order_id": "NC-100803", "line_no": 1, "product_id": "P004", "qty": 1, "unit_price": 15237.41, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 24}}
+{"order_id": "NC-100806", "line_no": 1, "product_id": "P006", "qty": 3, "unit_price": 293.22, "discount_pct": 12.5, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 12}}
+{"order_id": "NC-100583", "line_no": 1, "product_id": "P021", "qty": 1, "unit_price": 46.24, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "red", "size": "L"}}
+{"order_id": "NC-100797", "line_no": 1, "product_id": "P036", "qty": 1, "unit_price": 5324.6, "discount_pct": null, "line_type": "sale", "attributes": {"color": "black", "size": "std"}}
+{"order_id": "NC-100560", "line_no": 1, "product_id": "P034", "qty": 2, "unit_price": 141.61, "discount_pct": null, "line_type": "sale", "attributes": {"color": "black", "size": "std"}}
+{"order_id": "NC-100933", "line_no": 1, "product_id": "P001", "qty": 1, "unit_price": 139.36, "discount_pct": 25, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 6}}
+{"order_id": "NC-100706", "line_no": 2, "product_id": "P006", "qty": 1, "unit_price": 391.08, "discount_pct": 25, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 24}}
+{"order_id": "NC-100542", "line_no": 3, "product_id": "P016", "qty": 1, "unit_price": 103.53, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "grey", "gift_wrap": true}}
+{"order_id": "NC-100630", "line_no": 1, "product_id": "P007", "qty": 3, "unit_price": 364.42, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 12}}
+{"order_id": "NC-100526", "line_no": 3, "product_id": "P020", "qty": 2, "unit_price": 38.23, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "black", "size": "XL"}}
+{"order_id": "NC-100558", "line_no": 2, "product_id": "P006", "qty": 1, "unit_price": 371.75, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 12}}
+{"order_id": "NC-100613", "line_no": 2, "product_id": "P009", "qty": 3, "unit_price": 24152.9, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 24}}
+{"order_id": "NC-100634", "line_no": 2, "product_id": "P022", "qty": 1, "unit_price": 6036.29, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "navy", "size": "S"}}
+{"order_id": "NC-100566", "line_no": 2, "product_id": "P001", "qty": 1, "unit_price": 16659.41, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 12}}
+{"order_id": "NC-100932", "line_no": 1, "product_id": "P007", "qty": 3, "unit_price": 37260.72, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 24}}
+{"order_id": "NC-100501", "line_no": 1, "product_id": "P001", "qty": 1, "unit_price": 15505.88, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 12}}
+{"order_id": "NC-100761", "line_no": 1, "product_id": "P002", "qty": 1, "unit_price": "16343.30", "discount_pct": 25, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 6}}
+{"order_id": "NC-100588", "line_no": 1, "product_id": "P032", "qty": 1, "unit_price": 4508.31, "discount_pct": 15, "line_type": "sale", "attributes": {"volume_ml": 30, "gift_wrap": true}}
+{"order_id": "NC-100618", "line_no": 2, "product_id": "P033", "qty": 1, "unit_price": 62.98, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "orange", "size": "std"}}
+{"order_id": "NC-100537", "line_no": 1, "product_id": "P025", "qty": 1, "unit_price": 61.05, "discount_pct": null, "line_type": "sale", "attributes": {"color": "navy", "size": "XL"}}
+{"order_id": "NC-100517", "line_no": 2, "product_id": "P001", "qty": 1, "unit_price": "150.51", "discount_pct": 10, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 6}}
+{"order_id": "NC-100822", "line_no": 2, "product_id": "P009", "qty": 2, "unit_price": 24717.74, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 6}}
+{"order_id": "NC-100812", "line_no": 2, "product_id": "P009", "qty": 1, "unit_price": 23498.19, "discount_pct": null, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 12}}
+{"order_id": "NC-100654", "line_no": 1, "product_id": "P001", "qty": 2, "unit_price": 187.85, "discount_pct": 5, "line_type": "sale", "attributes": null}
+{"order_id": "NC-100691", "line_no": 2, "product_id": "P011", "qty": 1, "unit_price": 92.89, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "green", "gift_wrap": false}}
+{"order_id": "NC-100504", "line_no": 1, "product_id": "P012", "qty": 1, "unit_price": 37.81, "discount_pct": null, "line_type": "sale", "attributes": {"color": "beige", "gift_wrap": false}}
+{"order_id": "NC-100646", "line_no": 3, "product_id": "P012", "qty": 2, "unit_price": 50.47, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "green", "gift_wrap": false}}
+{"order_id": "NC-100307", "line_no": 4, "product_id": "P002", "qty": -3, "unit_price": 17765.1, "discount_pct": "5", "line_type": "return", "attributes": {"reason": "changed_mind"}}
+{"order_id": "NC-100714", "line_no": 1, "product_id": "P029", "qty": 2, "unit_price": "4084.99", "discount_pct": 0, "line_type": "sale", "attributes": {"volume_ml": 30, "gift_wrap": false}}
+{"order_id": "NC-100734", "line_no": 2, "product_id": "P018", "qty": 1, "unit_price": 28.95, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "white", "gift_wrap": true}}
+{"order_id": "NC-100734", "line_no": 1, "product_id": "P005", "qty": 1, "unit_price": 342.87, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 24}}
+{"order_id": "NC-100901", "line_no": 1, "product_id": "P023", "qty": 1, "unit_price": 61.78, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "red", "size": "S"}}
+{"order_id": "NC-100314", "line_no": 1, "product_id": "P040", "qty": 1, "unit_price": 2583.91, "discount_pct": null, "line_type": "sale", "attributes": {"format": "hardcover", "gift_wrap": false}}
+{"order_id": "NC-100880", "line_no": 2, "product_id": "P038", "qty": 5, "unit_price": 15.58, "discount_pct": 15, "line_type": "sale", "attributes": {"format": "hardcover", "gift_wrap": false}}
+{"order_id": "NC-100619", "line_no": 1, "product_id": "P010", "qty": 2, "unit_price": 192.98, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 12}}
+{"order_id": "NC-100798", "line_no": 3, "product_id": "P010", "qty": 2, "unit_price": 185.96, "discount_pct": null, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 12}}
+{"order_id": "NC-100228", "line_no": 2, "product_id": "P002", "qty": 1, "unit_price": 153.76, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 12}}
+{"order_id": "NC-100631", "line_no": 2, "product_id": "P008", "qty": 3, "unit_price": 44.89, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 12}}
+{"order_id": "NC-100545", "line_no": 4, "product_id": "P038", "qty": 5, "unit_price": 13.82, "discount_pct": 10, "line_type": "sale", "attributes": {"format": "hardcover", "gift_wrap": false}}
+{"order_id": "NC-100553", "line_no": 1, "product_id": "P038", "qty": 5, "unit_price": 1422.85, "discount_pct": 10, "line_type": "sale", "attributes": {"format": "paperback", "gift_wrap": false}}
+{"order_id": "NC-100546", "line_no": 1, "product_id": "P027", "qty": 1, "unit_price": 2852.1, "discount_pct": 10, "line_type": "sale", "attributes": {"volume_ml": 30, "gift_wrap": false}}
+{"order_id": "NC-100511", "line_no": 1, "product_id": "P021", "qty": 1, "unit_price": 31.64, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "red", "size": "XL"}}
+{"order_id": "NC-100701", "line_no": 1, "product_id": "P020", "qty": 2, "unit_price": 52.69, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "red", "size": "XL"}}
+{"order_id": "NC-990105", "line_no": 1, "product_id": "P007", "qty": 1, "unit_price": 398.58, "discount_pct": null, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 6}}
+{"order_id": "NC-100760", "line_no": 2, "product_id": "P033", "qty": 2, "unit_price": 5125.99, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "orange", "size": "std"}}
+{"order_id": "NC-100700", "line_no": 1, "product_id": "P027", "qty": 2, "unit_price": 35.53, "discount_pct": 20, "line_type": "sale", "attributes": {"volume_ml": 50, "gift_wrap": false}}
+{"order_id": "NC-100530", "line_no": 3, "product_id": "P015", "qty": 1, "unit_price": 20.6, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "green", "gift_wrap": false}}
+{"order_id": "NC-100242", "line_no": 4, "product_id": "P018", "qty": -1, "unit_price": 2359.01, "discount_pct": 0, "line_type": "return", "attributes": {"reason": "damaged"}}
+{"order_id": "NC-100648", "line_no": 1, "product_id": "P001", "qty": 2, "unit_price": 195.74, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 6}}
+{"order_id": "NC-100771", "line_no": 2, "product_id": "P011", "qty": 2, "unit_price": 108.02, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "beige", "gift_wrap": false}}
+{"order_id": "NC-100799", "line_no": 1, "product_id": "P031", "qty": 1, "unit_price": 32.2, "discount_pct": 15, "line_type": "sale", "attributes": {"volume_ml": 50, "gift_wrap": false}}
+{"order_id": "NC-100809", "line_no": 1, "product_id": "P003", "qty": 2, "unit_price": 400.31, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 24}}
+{"order_id": "NC-100774", "line_no": 2, "product_id": "P011", "qty": 2, "unit_price": 76.17, "discount_pct": null, "line_type": "sale", "attributes": {"color": "grey", "gift_wrap": false}}
+{"order_id": "NC-100640", "line_no": 3, "product_id": "P025", "qty": 1, "unit_price": 67.92, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "red", "size": "L"}}
+{"order_id": "NC-100710", "line_no": 1, "product_id": "P040", "qty": 5, "unit_price": 31.38, "discount_pct": null, "line_type": "sale", "attributes": {"format": "hardcover", "gift_wrap": true}}
+{"order_id": "NC-100892", "line_no": 1, "product_id": "P021", "qty": 1, "unit_price": 40.19, "discount_pct": null, "line_type": "sale", "attributes": {"color": "red", "size": "L"}}
+{"order_id": "NC-100879", "line_no": 2, "product_id": "P032", "qty": 1, "unit_price": 55.58, "discount_pct": 0, "line_type": "sale", "attributes": {"volume_ml": 100, "gift_wrap": true}}
+{"order_id": "NC-100747", "line_no": 4, "product_id": "P023", "qty": 1, "unit_price": 84.51, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "navy", "size": "S"}}
+{"order_id": "NC-100633", "line_no": 1, "product_id": "P006", "qty": 1, "unit_price": 397.42, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 6}}
+{"order_id": "NC-100864", "line_no": 1, "product_id": "P030", "qty": 1, "unit_price": 10.73, "discount_pct": 15, "line_type": "sale", "attributes": {"volume_ml": 50, "gift_wrap": true}}
+{"order_id": "NC-100707", "line_no": 1, "product_id": "P017", "qty": 1, "unit_price": 59.56, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "white", "gift_wrap": false}}
+{"order_id": "NC-100899", "line_no": 1, "product_id": "P009", "qty": 1, "unit_price": 271.8, "discount_pct": 25, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 24}}
+{"order_id": "NC-100865", "line_no": 1, "product_id": "P002", "qty": 3, "unit_price": 17547.1, "discount_pct": null, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 6}}
+{"order_id": "NC-100559", "line_no": 1, "product_id": "P006", "qty": 1, "unit_price": 32798.57, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 6}}
+{"order_id": "NC-100397", "line_no": 2, "product_id": "P009", "qty": -1, "unit_price": 23484.57, "discount_pct": 12.5, "line_type": "return", "attributes": {"reason": "not_as_described"}}
+{"order_id": "NC-100814", "line_no": 1, "product_id": "P030", "qty": 3, "unit_price": 10.14, "discount_pct": 10, "line_type": "sale", "attributes": {"volume_ml": 50, "gift_wrap": false}}
+{"order_id": "NC-100666", "line_no": 1, "product_id": "P002", "qty": 2, "unit_price": 17191.34, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 12}}
+{"order_id": "NC-100859", "line_no": 1, "product_id": "P007", "qty": 2, "unit_price": 33787.26, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 12}}
+{"order_id": "NC-100632", "line_no": 2, "product_id": "P035", "qty": 2, "unit_price": 119.69, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "black", "size": "std"}}
+{"order_id": "NC-100709", "line_no": 2, "product_id": "P008", "qty": 1, "unit_price": 4301.56, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 24}}
+{"order_id": "NC-100753", "line_no": 1, "product_id": "P005", "qty": 1, "unit_price": 30685.78, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 24}}
+{"order_id": "NC-100535", "line_no": 2, "product_id": "P026", "qty": 1, "unit_price": 80.24, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "olive", "size": "L"}}
+{"order_id": "NC-100835", "line_no": 2, "product_id": "P039", "qty": 5, "unit_price": 588.61, "discount_pct": null, "line_type": "sale", "attributes": {"format": "hardcover", "gift_wrap": false}}
+{"order_id": "NC-100927", "line_no": 1, "product_id": "P001", "qty": 2, "unit_price": 15790.05, "discount_pct": 20, "line_type": "sale", "attributes": null}
+{"order_id": "NC-100215", "line_no": 5, "product_id": "P016", "qty": -1, "unit_price": 8556.65, "discount_pct": 20, "line_type": "return", "attributes": {"reason": "damaged"}}
+{"order_id": "NC-100608", "line_no": 3, "product_id": "P036", "qty": 2, "unit_price": 5796.93, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "black", "size": "L"}}
+{"order_id": "NC-100759", "line_no": 1, "product_id": "P005", "qty": 3, "unit_price": 28302.23, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 12}}
+{"order_id": "NC-100656", "line_no": 3, "product_id": "P021", "qty": 1, "unit_price": 43.09, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "black", "size": "L"}}
+{"order_id": "NC-100707", "line_no": 2, "product_id": "P034", "qty": 1, "unit_price": 111.87, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "orange", "size": "std"}}
+{"order_id": "NC-100570", "line_no": 2, "product_id": "P005", "qty": 1, "unit_price": 30327.37, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 12}}
+{"order_id": "NC-100740", "line_no": 1, "product_id": "P007", "qty": 1, "unit_price": 424.31, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 12}}
+{"order_id": "NC-100754", "line_no": 1, "product_id": "P034", "qty": 1, "unit_price": 12337.97, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "orange", "size": "L"}}
+{"order_id": "NC-100919", "line_no": 1, "product_id": "P037", "qty": 1, "unit_price": 101.17, "discount_pct": 5, "line_type": "sale", "attributes": null}
+{"order_id": "NC-100511", "line_no": 3, "product_id": "P004", "qty": 1, "unit_price": 126.39, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 12}}
+{"order_id": "NC-100792", "line_no": 1, "product_id": "P005", "qty": 3, "unit_price": 29192.63, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 24}}
+{"order_id": "NC-100789", "line_no": 1, "product_id": "P004", "qty": 1, "unit_price": 13977.3, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 12}}
+{"order_id": "NC-100556", "line_no": 3, "product_id": "P004", "qty": 1, "unit_price": 119.98, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 12}}
+{"order_id": "NC-100813", "line_no": 1, "product_id": "P022", "qty": 2, "unit_price": 72.25, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "navy", "size": "M"}}
+{"order_id": "NC-100502", "line_no": 1, "product_id": "P001", "qty": 1, "unit_price": 15952.89, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 6}}
+{"order_id": "NC-100848", "line_no": 1, "product_id": "P031", "qty": 1, "unit_price": 2860.5, "discount_pct": null, "line_type": "sale", "attributes": {"volume_ml": 30, "gift_wrap": false}}
+{"order_id": "NC-100513", "line_no": 2, "product_id": "P007", "qty": 1, "unit_price": 572.59, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 24}}
+{"order_id": "NC-100807", "line_no": 2, "product_id": "P034", "qty": 1, "unit_price": 143.02, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "black", "size": "std"}}
+{"order_id": "NC-100747", "line_no": 2, "product_id": "P034", "qty": 1, "unit_price": 151.45, "discount_pct": null, "line_type": "sale", "attributes": {"color": "orange", "size": "L"}}
+{"order_id": "NC-100827", "line_no": 2, "product_id": "P003", "qty": 1, "unit_price": 304.23, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 12}}
+{"order_id": "NC-100894", "line_no": 1, "product_id": "P007", "qty": 1, "unit_price": 567.08, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 6}}
+{"order_id": "NC-100379", "line_no": 4, "product_id": "P004", "qty": -2, "unit_price": 219.29, "discount_pct": 0, "line_type": "return", "attributes": {"reason": "damaged"}}
+{"order_id": "NC-100602", "line_no": 1, "product_id": "P038", "qty": 5, "unit_price": 1435.95, "discount_pct": 5, "line_type": "sale", "attributes": {"format": "hardcover", "gift_wrap": false}}
+{"order_id": "NC-100616", "line_no": 3, "product_id": "P002", "qty": 1, "unit_price": 215.07, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 24}}
+{"order_id": "NC-100818", "line_no": 1, "product_id": "P001", "qty": 3, "unit_price": 142.67, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 24}}
+{"order_id": "NC-100670", "line_no": 4, "product_id": "P014", "qty": 3, "unit_price": 16.26, "discount_pct": null, "line_type": "sale", "attributes": {"color": "grey", "gift_wrap": false}}
+{"order_id": "NC-100929", "line_no": 2, "product_id": "P007", "qty": 1, "unit_price": 449.58, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 24}}
+{"order_id": "NC-100581", "line_no": 2, "product_id": "P012", "qty": 2, "unit_price": 3857.59, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "white", "gift_wrap": true}}
+{"order_id": "NC-100368", "line_no": 4, "product_id": "P014", "qty": -1, "unit_price": 1665.02, "discount_pct": 15, "line_type": "return", "attributes": {"reason": "changed_mind"}}
+{"order_id": "NC-100730", "line_no": 2, "product_id": "P013", "qty": 1, "unit_price": 10.43, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "grey", "gift_wrap": false}}
+{"order_id": "NC-100832", "line_no": 4, "product_id": "P031", "qty": 1, "unit_price": 27.0, "discount_pct": 0, "line_type": "sale", "attributes": {"volume_ml": 30, "gift_wrap": false}}
+{"order_id": "NC-100820", "line_no": 2, "product_id": "P009", "qty": 3, "unit_price": 256.25, "discount_pct": "0", "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 24}}
+{"order_id": "NC-100658", "line_no": 1, "product_id": "P005", "qty": 2, "unit_price": 347.8, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 24}}
+{"order_id": "NC-100639", "line_no": 2, "product_id": "P002", "qty": 1, "unit_price": 159.03, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 24}}
+{"order_id": "NC-100598", "line_no": 2, "product_id": "P008", "qty": -1, "unit_price": 4154.21, "discount_pct": 0, "line_type": "return", "attributes": {"reason": "not_as_described"}}
+{"order_id": "NC-100729", "line_no": 2, "product_id": "P030", "qty": 1, "unit_price": 13.04, "discount_pct": 5, "line_type": "sale", "attributes": {"volume_ml": 50, "gift_wrap": false}}
+{"order_id": "NC-100779", "line_no": 1, "product_id": "P012", "qty": 1, "unit_price": 3870.65, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "grey", "gift_wrap": false}}
+{"order_id": "NC-100733", "line_no": 1, "product_id": "P029", "qty": 1, "unit_price": 34.12, "discount_pct": null, "line_type": "sale", "attributes": {"volume_ml": 30, "gift_wrap": false}}
+{"order_id": "NC-100909", "line_no": 1, "product_id": "P015", "qty": 1, "unit_price": 11.37, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "green", "gift_wrap": false}}
+{"order_id": "NC-100930", "line_no": 1, "product_id": "P037", "qty": 1, "unit_price": "83.46", "discount_pct": 0, "line_type": "sale", "attributes": {"color": "blue", "size": "L"}}
+{"order_id": "NC-100705", "line_no": 1, "product_id": "P013", "qty": 1, "unit_price": 7.55, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "green", "gift_wrap": false}}
+{"order_id": "NC-100716", "line_no": 1, "product_id": "P016", "qty": 2, "unit_price": 105.38, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "green", "gift_wrap": false}}
+{"order_id": "NC-100540", "line_no": 1, "product_id": "P004", "qty": 1, "unit_price": 210.75, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 12}}
+{"order_id": "NC-100720", "line_no": 2, "product_id": "P024", "qty": 1, "unit_price": 85.37, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "black", "size": "M"}}
+{"order_id": "NC-100541", "line_no": 1, "product_id": "P007", "qty": 2, "unit_price": 366.99, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 24}}
+{"order_id": "NC-100379", "line_no": 5, "product_id": "P003", "qty": -1, "unit_price": 531.8, "discount_pct": null, "line_type": "return", "attributes": {"reason": "wrong_size"}}
+{"order_id": "NC-100774", "line_no": 1, "product_id": "P001", "qty": 1, "unit_price": "137.30", "discount_pct": 15, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 6}}
+{"order_id": "NC-100934", "line_no": 1, "product_id": "P038", "qty": 4, "unit_price": 17.93, "discount_pct": "0", "line_type": "sale", "attributes": {"format": "hardcover", "gift_wrap": false}}
+{"order_id": "NC-100581", "line_no": 1, "product_id": "P006", "qty": 1, "unit_price": 30446.46, "discount_pct": null, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 12}}
+{"order_id": "NC-100603", "line_no": 1, "product_id": "P035", "qty": 1, "unit_price": 96.18, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "blue", "size": "std"}}
+{"order_id": "NC-100902", "line_no": 2, "product_id": "P004", "qty": 2, "unit_price": 211.91, "discount_pct": 25, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 6}}
+{"order_id": "NC-100502", "line_no": 2, "product_id": "P033", "qty": 1, "unit_price": 4874.86, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "blue", "size": "L"}}
+{"order_id": "NC-100934", "line_no": 2, "product_id": "P027", "qty": 1, "unit_price": 34.7, "discount_pct": 0, "line_type": "sale", "attributes": {"volume_ml": 30, "gift_wrap": false}}
+{"order_id": "NC-100932", "line_no": 2, "product_id": "P002", "qty": 1, "unit_price": "17048.81", "discount_pct": 10, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 6}}
+{"order_id": "NC-100837", "line_no": 1, "product_id": "P034", "qty": 2, "unit_price": 12826.04, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "orange", "size": "L"}}
+{"order_id": "NC-100578", "line_no": 1, "product_id": "P001", "qty": 1, "unit_price": 143.52, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 6}}
+{"order_id": "NC-100863", "line_no": 1, "product_id": "P014", "qty": 2, "unit_price": 21.31, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "grey", "gift_wrap": false}}
+{"order_id": "NC-100558", "line_no": 1, "product_id": "P011", "qty": 1, "unit_price": 104.76, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "beige", "gift_wrap": false}}
+{"order_id": "NC-100630", "line_no": 4, "product_id": "P025", "qty": 1, "unit_price": 75.4, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "olive", "size": "S"}}
+{"order_id": "NC-100884", "line_no": 1, "product_id": "P006", "qty": 1, "unit_price": 380.67, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 24}}
+{"order_id": "NC-100695", "line_no": 1, "product_id": "P038", "qty": 1, "unit_price": 15.3, "discount_pct": 20, "line_type": "sale", "attributes": {"format": "hardcover", "gift_wrap": false}}
+{"order_id": "NC-100886", "line_no": 3, "product_id": "P032", "qty": 2, "unit_price": 39.74, "discount_pct": null, "line_type": "sale", "attributes": {"volume_ml": 100, "gift_wrap": false}}
+{"order_id": "NC-100928", "line_no": 1, "product_id": "P004", "qty": 2, "unit_price": 164.14, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 6}}
+{"order_id": "NC-100550", "line_no": 1, "product_id": "P004", "qty": 1, "unit_price": 13605.15, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 24}}
+{"order_id": "NC-100867", "line_no": 2, "product_id": "P007", "qty": 2, "unit_price": 299.09, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 6}}
+{"order_id": "NC-100810", "line_no": 1, "product_id": "P006", "qty": 1, "unit_price": 32983.63, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 24}}
+{"order_id": "NC-100912", "line_no": 2, "product_id": "P032", "qty": 1, "unit_price": 67.68, "discount_pct": 20, "line_type": "sale", "attributes": {"volume_ml": 30, "gift_wrap": true}}
+{"order_id": "NC-100548", "line_no": 1, "product_id": "P033", "qty": 1, "unit_price": 64.21, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "black", "size": "L"}}
+{"order_id": "NC-100625", "line_no": 2, "product_id": "P032", "qty": 1, "unit_price": 4516.02, "discount_pct": 10, "line_type": "sale", "attributes": {"volume_ml": 30, "gift_wrap": false}}
+{"order_id": "NC-100858", "line_no": 4, "product_id": "P009", "qty": 2, "unit_price": 212.64, "discount_pct": null, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 6}}
+{"order_id": "NC-100931", "line_no": 2, "product_id": "P008", "qty": 1, "unit_price": 4054.72, "discount_pct": 10, "line_type": "sale", "attributes": null}
+{"order_id": "NC-100844", "line_no": 2, "product_id": "P022", "qty": 1, "unit_price": 70.91, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "olive", "size": "XL"}}
+{"order_id": "NC-100635", "line_no": 1, "product_id": "P018", "qty": 3, "unit_price": 2279.43, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "green", "gift_wrap": true}}
+{"order_id": "NC-100942", "line_no": 2, "product_id": "P007", "qty": 1, "unit_price": 34444.94, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 24}}
+{"order_id": "NC-100829", "line_no": 2, "product_id": "P020", "qty": 1, "unit_price": "4539.76", "discount_pct": 10, "line_type": "sale", "attributes": {"color": "red", "size": "M"}}
+{"order_id": "NC-100037", "line_no": 2, "product_id": "P001", "qty": -1, "unit_price": 135.26, "discount_pct": 0, "line_type": "return", "attributes": {"reason": "wrong_size"}}
+{"order_id": "NC-100439", "line_no": 4, "product_id": "P018", "qty": -1, "unit_price": 2212.39, "discount_pct": 10, "line_type": "return", "attributes": {"reason": "damaged"}}
+{"order_id": "NC-100737", "line_no": 1, "product_id": "P007", "qty": 3, "unit_price": 328.54, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 12}}
+{"order_id": "NC-100158", "line_no": 1, "product_id": "P004", "qty": 2, "unit_price": 13488.66, "discount_pct": 25, "line_type": "sale", "attributes": null}
+{"order_id": "NC-100563", "line_no": 3, "product_id": "P028", "qty": 1, "unit_price": 38.46, "discount_pct": 0, "line_type": "sale", "attributes": {"volume_ml": 50, "gift_wrap": true}}
+{"order_id": "NC-100676", "line_no": 1, "product_id": "P031", "qty": 2, "unit_price": 2715.88, "discount_pct": 0, "line_type": "sale", "attributes": {"volume_ml": 30, "gift_wrap": false}}
+{"order_id": "NC-100704", "line_no": 3, "product_id": "P019", "qty": 3, "unit_price": 53.43, "discount_pct": null, "line_type": "sale", "attributes": {"color": "red", "size": "L"}}
+{"order_id": "NC-100569", "line_no": 1, "product_id": "P028", "qty": 1, "unit_price": 43.73, "discount_pct": 15, "line_type": "sale", "attributes": {"volume_ml": 30, "gift_wrap": false}}
+{"order_id": "NC-100554", "line_no": 2, "product_id": "P031", "qty": 1, "unit_price": 2847.99, "discount_pct": 0, "line_type": "sale", "attributes": {"volume_ml": 30, "gift_wrap": false}}
+{"order_id": "NC-100668", "line_no": 1, "product_id": "P012", "qty": 1, "unit_price": 3935.65, "discount_pct": null, "line_type": "sale", "attributes": {"color": "white", "gift_wrap": true}}
+{"order_id": "NC-100897", "line_no": 2, "product_id": "P036", "qty": 1, "unit_price": 65.46, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "orange", "size": "L"}}
+{"order_id": "NC-100893", "line_no": 3, "product_id": "P020", "qty": 2, "unit_price": 49.16, "discount_pct": null, "line_type": "sale", "attributes": {"color": "navy", "size": "XL"}}
+{"order_id": "NC-100886", "line_no": 2, "product_id": "P019", "qty": 1, "unit_price": 42.92, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "navy", "size": "XL"}}
+{"order_id": "NC-100589", "line_no": 1, "product_id": "P016", "qty": 1, "unit_price": 8655.03, "discount_pct": "0", "line_type": "sale", "attributes": {"color": "beige", "gift_wrap": false}}
+{"order_id": "NC-100703", "line_no": 1, "product_id": "P021", "qty": 2, "unit_price": 34.43, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "black", "size": "M"}}
+{"order_id": "NC-100630", "line_no": 3, "product_id": "P004", "qty": 1, "unit_price": 148.65, "discount_pct": null, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 12}}
+{"order_id": "NC-100671", "line_no": 1, "product_id": "P002", "qty": 2, "unit_price": 265.07, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 24}}
+{"order_id": "NC-100794", "line_no": 2, "product_id": "P027", "qty": 1, "unit_price": 3002.07, "discount_pct": 12.5, "line_type": "sale", "attributes": {"volume_ml": 30, "gift_wrap": false}}
+{"order_id": "NC-100313", "line_no": 3, "product_id": "P037", "qty": -1, "unit_price": 9075.32, "discount_pct": "5", "line_type": "return", "attributes": {"reason": "damaged"}}
+{"order_id": "NC-100640", "line_no": 1, "product_id": "P013", "qty": 2, "unit_price": 9.34, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "beige", "gift_wrap": false}}
+{"order_id": "NC-100703", "line_no": 2, "product_id": "P009", "qty": 1, "unit_price": 204.32, "discount_pct": null, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 6}}
+{"order_id": "NC-100541", "line_no": 3, "product_id": "P026", "qty": 1, "unit_price": 76.6, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "red", "size": "S"}}
+{"order_id": "NC-100193", "line_no": 2, "product_id": "P011", "qty": 1, "unit_price": 8317.47, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "beige", "gift_wrap": false}}
+{"order_id": "NC-100547", "line_no": 2, "product_id": "P010", "qty": 1, "unit_price": 14913.76, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 12}}
+{"order_id": "NC-100652", "line_no": 1, "product_id": "P001", "qty": 1, "unit_price": 187.92, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 24}}
+{"order_id": "NC-100614", "line_no": 2, "product_id": "P010", "qty": 2, "unit_price": 173.99, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 12}}
+{"order_id": "NC-100725", "line_no": 1, "product_id": "P002", "qty": 1, "unit_price": 17494.64, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 6}}
+{"order_id": "NC-100755", "line_no": 2, "product_id": "P001", "qty": 2, "unit_price": 16513.81, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 6}}
+{"order_id": "NC-100807", "line_no": 1, "product_id": "P012", "qty": 1, "unit_price": 46.7, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "grey", "gift_wrap": false}}
+{"order_id": "NC-100565", "line_no": 3, "product_id": "P027", "qty": 3, "unit_price": 28.62, "discount_pct": 0, "line_type": "sale", "attributes": {"volume_ml": 30, "gift_wrap": false}}
+{"order_id": "NC-100883", "line_no": 1, "product_id": "P001", "qty": 1, "unit_price": "16342.15", "discount_pct": 0, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 24}}
+{"order_id": "NC-100552", "line_no": 1, "product_id": "P039", "qty": 4, "unit_price": 7.23, "discount_pct": 10, "line_type": "sale", "attributes": {"format": "paperback", "gift_wrap": false}}
+{"order_id": "NC-100614", "line_no": 3, "product_id": "P102", "qty": 1, "unit_price": 379.53, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 12}}
+{"order_id": "NC-100763", "line_no": 3, "product_id": "P039", "qty": 2, "unit_price": 5.44, "discount_pct": 0, "line_type": "sale", "attributes": {"format": "hardcover", "gift_wrap": false}}
+{"order_id": "NC-100713", "line_no": 1, "product_id": "P008", "qty": 2, "unit_price": 35.77, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 6}}
+{"order_id": "NC-100911", "line_no": 1, "product_id": "P030", "qty": 1, "unit_price": 822.5, "discount_pct": 10, "line_type": "sale", "attributes": {"volume_ml": 50, "gift_wrap": false}}
+{"order_id": "NC-100215", "line_no": 4, "product_id": "P021", "qty": -1, "unit_price": 3559.73, "discount_pct": 20, "line_type": "return", "attributes": {"reason": "wrong_size"}}
+{"order_id": "NC-100902", "line_no": 4, "product_id": "P016", "qty": 1, "unit_price": 135.0, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "green", "gift_wrap": false}}
+{"order_id": "NC-100642", "line_no": 1, "product_id": "P040", "qty": 4, "unit_price": 25.44, "discount_pct": null, "line_type": "sale", "attributes": {"format": "paperback", "gift_wrap": false}}
+{"order_id": "NC-100806", "line_no": 2, "product_id": "P036", "qty": 3, "unit_price": 47.82, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "black", "size": "std"}}
+{"order_id": "NC-100817", "line_no": 2, "product_id": "P031", "qty": 2, "unit_price": 39.45, "discount_pct": 10, "line_type": "sale", "attributes": {"volume_ml": 100, "gift_wrap": true}}
+{"order_id": "NC-100879", "line_no": 1, "product_id": "P002", "qty": 1, "unit_price": 189.84, "discount_pct": null, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 6}}
+{"order_id": "NC-100647", "line_no": 1, "product_id": "P002", "qty": 1, "unit_price": 17669.55, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 12}}
+{"order_id": "NC-100497", "line_no": 1, "product_id": "P004", "qty": 2, "unit_price": 14388.41, "discount_pct": 5, "line_type": "sale", "attributes": null}
+{"order_id": "NC-100555", "line_no": 2, "product_id": "P010", "qty": 2, "unit_price": 14897.24, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 6}}
+{"order_id": "NC-100850", "line_no": 1, "product_id": "P009", "qty": 2, "unit_price": 199.21, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 6}}
+{"order_id": "NC-100328", "line_no": 2, "product_id": "P020", "qty": -1, "unit_price": 4547.21, "discount_pct": 20, "line_type": "return", "attributes": {"reason": "wrong_size"}}
+{"order_id": "NC-100857", "line_no": 1, "product_id": "P002", "qty": 2, "unit_price": 147.29, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 24}}
+{"order_id": "NC-100785", "line_no": 1, "product_id": "P028", "qty": 2, "unit_price": 29.16, "discount_pct": 20, "line_type": "sale", "attributes": {"volume_ml": 30, "gift_wrap": false}}
+{"order_id": "NC-100597", "line_no": 1, "product_id": "P036", "qty": 1, "unit_price": 56.92, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "blue", "size": "L"}}
+{"order_id": "NC-100369", "line_no": 3, "product_id": "P023", "qty": -1, "unit_price": "6472.12", "discount_pct": 0, "line_type": "return", "attributes": {"reason": "changed_mind"}}
+{"order_id": "NC-100637", "line_no": 2, "product_id": "P008", "qty": 3, "unit_price": 45.13, "discount_pct": null, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 12}}
+{"order_id": "NC-100660", "line_no": 2, "product_id": "P027", "qty": 1, "unit_price": 3010.39, "discount_pct": null, "line_type": "sale", "attributes": {"volume_ml": 30, "gift_wrap": true}}
+{"order_id": "NC-100776", "line_no": 1, "product_id": "P022", "qty": 3, "unit_price": 6392.89, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "red", "size": "S"}}
+{"order_id": "NC-100719", "line_no": 2, "product_id": "P008", "qty": 1, "unit_price": 43.15, "discount_pct": 0, "line_type": "sale", "attributes": null}
+{"order_id": "NC-100487", "line_no": 4, "product_id": "P010", "qty": -1, "unit_price": 170.64, "discount_pct": 10, "line_type": "return", "attributes": {"reason": "changed_mind"}}
+{"order_id": "NC-100893", "line_no": 2, "product_id": "P015", "qty": 3, "unit_price": 13.32, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "green", "gift_wrap": false}}
+{"order_id": "NC-100507", "line_no": 1, "product_id": "P032", "qty": 2, "unit_price": 4509.29, "discount_pct": 12.5, "line_type": "sale", "attributes": {"volume_ml": 30, "gift_wrap": false}}
+{"order_id": "NC-100597", "line_no": 3, "product_id": "P013", "qty": -1, "unit_price": 9.89, "discount_pct": 25, "line_type": "return", "attributes": {"reason": "not_as_described"}}
+{"order_id": "NC-100530", "line_no": 2, "product_id": "P012", "qty": 2, "unit_price": 60.08, "discount_pct": "0", "line_type": "sale", "attributes": {"color": "green", "gift_wrap": false}}
+{"order_id": "NC-100900", "line_no": 3, "product_id": "P036", "qty": 1, "unit_price": 66.01, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "black", "size": "L"}}
+{"order_id": "NC-100741", "line_no": 2, "product_id": "P022", "qty": 1, "unit_price": 92.33, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "olive", "size": "M"}}
+{"order_id": "NC-100702", "line_no": 1, "product_id": "P038", "qty": 2, "unit_price": 1458.96, "discount_pct": null, "line_type": "sale", "attributes": {"format": "paperback", "gift_wrap": true}}
+{"order_id": "NC-100624", "line_no": 3, "product_id": "P013", "qty": 3, "unit_price": 14.52, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "beige", "gift_wrap": false}}
+{"order_id": "NC-100758", "line_no": 1, "product_id": "P001", "qty": 1, "unit_price": 159.81, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 12}}
+{"order_id": "NC-100526", "line_no": 1, "product_id": "P029", "qty": 3, "unit_price": 35.6, "discount_pct": 0, "line_type": "sale", "attributes": {"volume_ml": 100, "gift_wrap": false}}
+{"order_id": "NC-100780", "line_no": 1, "product_id": "P021", "qty": 1, "unit_price": 31.49, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "olive", "size": "L"}}
+{"order_id": "NC-100882", "line_no": 1, "product_id": "P011", "qty": 2, "unit_price": 8374.64, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "white", "gift_wrap": false}}
+{"order_id": "NC-100317", "line_no": 5, "product_id": "P026", "qty": -1, "unit_price": 7172.62, "discount_pct": 0, "line_type": "return", "attributes": {"reason": "damaged"}}
+{"order_id": "NC-100811", "line_no": 2, "product_id": "P029", "qty": 1, "unit_price": 33.62, "discount_pct": null, "line_type": "sale", "attributes": {"volume_ml": 30, "gift_wrap": false}}
+{"order_id": "NC-100723", "line_no": 4, "product_id": "P008", "qty": 1, "unit_price": 4034.64, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 24}}
+{"order_id": "NC-100670", "line_no": 2, "product_id": "P008", "qty": 1, "unit_price": 36.0, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 12}}
+{"order_id": "NC-100615", "line_no": 2, "product_id": "P001", "qty": 2, "unit_price": 16039.5, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 12}}
+{"order_id": "NC-100613", "line_no": 1, "product_id": "P012", "qty": 3, "unit_price": "3823.24", "discount_pct": 5, "line_type": "sale", "attributes": {"color": "beige", "gift_wrap": true}}
+{"order_id": "NC-100623", "line_no": 1, "product_id": "P006", "qty": 1, "unit_price": 378.49, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 24}}
+{"order_id": "NC-100575", "line_no": 2, "product_id": "P024", "qty": 1, "unit_price": 91.73, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "black", "size": "S"}}
+{"order_id": "NC-100580", "line_no": 5, "product_id": "P033", "qty": -1, "unit_price": 45.97, "discount_pct": 5, "line_type": "return", "attributes": {"reason": "damaged"}}
+{"order_id": "NC-100633", "line_no": 2, "product_id": "P018", "qty": 1, "unit_price": 26.05, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "green", "gift_wrap": false}}
+{"order_id": "NC-100580", "line_no": 2, "product_id": "P032", "qty": 1, "unit_price": 40.58, "discount_pct": 0, "line_type": "sale", "attributes": {"volume_ml": 100, "gift_wrap": false}}
+{"order_id": "NC-100889", "line_no": 2, "product_id": "P003", "qty": 1, "unit_price": 334.69, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 12}}
+{"order_id": "NC-990106", "line_no": 1, "product_id": "P026", "qty": 3, "unit_price": 89.78, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "olive", "size": "XL"}}
+{"order_id": "NC-100659", "line_no": 1, "product_id": "P010", "qty": 2, "unit_price": 15621.05, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 24}}
+{"order_id": "NC-100906", "line_no": 2, "product_id": "P025", "qty": 1, "unit_price": 73.57, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "navy", "size": "XL"}}
+{"order_id": "NC-100509", "line_no": 3, "product_id": "P038", "qty": 4, "unit_price": "18.20", "discount_pct": 5, "line_type": "sale", "attributes": {"format": "hardcover", "gift_wrap": false}}
+{"order_id": "NC-100525", "line_no": 1, "product_id": "P004", "qty": 3, "unit_price": 159.74, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 6}}
+{"order_id": "NC-100765", "line_no": 1, "product_id": "P007", "qty": 1, "unit_price": 368.53, "discount_pct": null, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 6}}
+{"order_id": "NC-100505", "line_no": 1, "product_id": "P020", "qty": 2, "unit_price": 45.21, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "red", "size": "M"}}
+{"order_id": "NC-100582", "line_no": 2, "product_id": "P033", "qty": 1, "unit_price": 77.88, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "orange", "size": "L"}}
+{"order_id": "NC-100824", "line_no": 2, "product_id": "P027", "qty": 1, "unit_price": 30.06, "discount_pct": 25, "line_type": "sale", "attributes": {"volume_ml": 100, "gift_wrap": true}}
+{"order_id": "NC-100604", "line_no": 2, "product_id": "P007", "qty": 1, "unit_price": 36122.18, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 6}}
+{"order_id": "NC-100900", "line_no": 1, "product_id": "P022", "qty": 1, "unit_price": 73.66, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "olive", "size": "M"}}
+{"order_id": "NC-100748", "line_no": 2, "product_id": "P033", "qty": 1, "unit_price": 5321.58, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "black", "size": "std"}}
+{"order_id": "NC-100499", "line_no": 3, "product_id": "P015", "qty": 1, "unit_price": 1334.34, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "green", "gift_wrap": false}}
+{"order_id": "NC-100806", "line_no": 4, "product_id": "P034", "qty": 3, "unit_price": 110.62, "discount_pct": null, "line_type": "sale", "attributes": {"color": "blue", "size": "std"}}
+{"order_id": "NC-100816", "line_no": 3, "product_id": "P027", "qty": 1, "unit_price": 45.89, "discount_pct": null, "line_type": "sale", "attributes": {"volume_ml": 30, "gift_wrap": false}}
+{"order_id": "NC-100629", "line_no": 1, "product_id": "P025", "qty": 1, "unit_price": 100.68, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "black", "size": "XL"}}
+{"order_id": "NC-100867", "line_no": 1, "product_id": "P004", "qty": 2, "unit_price": 121.27, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 24}}
+{"order_id": "NC-100787", "line_no": 1, "product_id": "P016", "qty": 2, "unit_price": 77.53, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "green", "gift_wrap": true}}
+{"order_id": "NC-100596", "line_no": 2, "product_id": "P008", "qty": 1, "unit_price": 4268.7, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 12}}
+{"order_id": "NC-100796", "line_no": 1, "product_id": "P004", "qty": 2, "unit_price": 14029.11, "discount_pct": null, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 6}}
+{"order_id": "NC-100735", "line_no": 2, "product_id": "P003", "qty": 1, "unit_price": 373.61, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 12}}
+{"order_id": "NC-100745", "line_no": 1, "product_id": "P010", "qty": 3, "unit_price": 139.2, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 12}}
+{"order_id": "NC-100818", "line_no": 4, "product_id": "P026", "qty": 1, "unit_price": 59.29, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "red", "size": "XL"}}
+{"order_id": "NC-100405", "line_no": 3, "product_id": "P022", "qty": -2, "unit_price": 71.07, "discount_pct": 20, "line_type": "return", "attributes": {"reason": "damaged"}}
+{"order_id": "NC-100868", "line_no": 2, "product_id": "P024", "qty": 2, "unit_price": 74.5, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "navy", "size": "L"}}
+{"order_id": "NC-100729", "line_no": 3, "product_id": "P033", "qty": 1, "unit_price": 77.19, "discount_pct": 5, "line_type": "sale", "attributes": null}
+{"order_id": "NC-100544", "line_no": 2, "product_id": "P006", "qty": 2, "unit_price": 32309.15, "discount_pct": null, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 24}}
+{"order_id": "NC-100811", "line_no": 1, "product_id": "P037", "qty": 1, "unit_price": 77.07, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "black", "size": "L"}}
+{"order_id": "NC-100313", "line_no": 3, "product_id": "P037", "qty": -1, "unit_price": 9075.32, "discount_pct": "5", "line_type": "return", "attributes": {"reason": "damaged"}}
+{"order_id": "NC-100513", "line_no": 3, "product_id": "P007", "qty": -1, "unit_price": 572.59, "discount_pct": 15, "line_type": "return", "attributes": {"reason": "wrong_size"}}
+{"order_id": "NC-100709", "line_no": 1, "product_id": "P013", "qty": 1, "unit_price": 906.27, "discount_pct": null, "line_type": "sale", "attributes": {"color": "white", "gift_wrap": false}}
+{"order_id": "NC-100594", "line_no": 2, "product_id": "P019", "qty": 1, "unit_price": 51.79, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "olive", "size": "L"}}
+{"order_id": "NC-100683", "line_no": 1, "product_id": "P025", "qty": 1, "unit_price": 77.87, "discount_pct": 15, "line_type": "sale", "attributes": null}
+{"order_id": "NC-100906", "line_no": 3, "product_id": "P004", "qty": 1, "unit_price": 146.86, "discount_pct": 15, "line_type": "sale", "attributes": null}
+{"order_id": "NC-100804", "line_no": 3, "product_id": "P017", "qty": 2, "unit_price": 72.49, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "green", "gift_wrap": false}}
+{"order_id": "NC-100673", "line_no": 2, "product_id": "P012", "qty": 2, "unit_price": 49.88, "discount_pct": 12.5, "line_type": "sale", "attributes": {"color": "green", "gift_wrap": false}}
+{"order_id": "NC-100601", "line_no": 1, "product_id": "P002", "qty": 1, "unit_price": 17023.58, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 6}}
+{"order_id": "NC-100784", "line_no": 1, "product_id": "P032", "qty": 3, "unit_price": 38.31, "discount_pct": 0, "line_type": "sale", "attributes": {"volume_ml": 100, "gift_wrap": false}}
+{"order_id": "NC-100831", "line_no": 1, "product_id": "P034", "qty": 2, "unit_price": 11440.57, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "black", "size": "std"}}
+{"order_id": "NC-100609", "line_no": 2, "product_id": "P006", "qty": 3, "unit_price": 404.54, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 6}}
+{"order_id": "NC-100559", "line_no": 3, "product_id": "P033", "qty": -1, "unit_price": 5214.72, "discount_pct": 25, "line_type": "return", "attributes": {"reason": "wrong_size"}}
+{"order_id": "NC-990103", "line_no": 1, "product_id": "P006", "qty": 3, "unit_price": 384.17, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 12}}
+{"order_id": "NC-100795", "line_no": 1, "product_id": "P003", "qty": 1, "unit_price": 537.72, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 12}}
+{"order_id": "NC-100746", "line_no": 3, "product_id": "P024", "qty": 1, "unit_price": 7386.58, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "olive", "size": "L"}}
+{"order_id": "NC-100801", "line_no": 1, "product_id": "P001", "qty": 1, "unit_price": "134.93", "discount_pct": null, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 24}}
+{"order_id": "NC-100741", "line_no": 4, "product_id": "P009", "qty": 1, "unit_price": 383.37, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 12}}
+{"order_id": "NC-100718", "line_no": 2, "product_id": "P009", "qty": 1, "unit_price": 23277.96, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 12}}
+{"order_id": "NC-100510", "line_no": 1, "product_id": "P038", "qty": 4, "unit_price": 1595.8, "discount_pct": 10, "line_type": "sale", "attributes": {"format": "paperback", "gift_wrap": false}}
+{"order_id": "NC-100698", "line_no": 1, "product_id": "P033", "qty": 2, "unit_price": 4948.45, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "blue", "size": "L"}}
+{"order_id": "NC-100280", "line_no": 4, "product_id": "P027", "qty": -1, "unit_price": 34.76, "discount_pct": 10, "line_type": "return", "attributes": {"reason": "damaged"}}
+{"order_id": "NC-100675", "line_no": 1, "product_id": "P027", "qty": 1, "unit_price": 2693.19, "discount_pct": 0, "line_type": "sale", "attributes": {"volume_ml": 100, "gift_wrap": false}}
+{"order_id": "NC-100849", "line_no": 2, "product_id": "P008", "qty": 1, "unit_price": 3972.25, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 24}}
+{"order_id": "NC-100873", "line_no": 1, "product_id": "P003", "qty": 1, "unit_price": 342.5, "discount_pct": 5, "line_type": "sale", "attributes": null}
+{"order_id": "NC-100552", "line_no": 2, "product_id": "P038", "qty": 2, "unit_price": 18.04, "discount_pct": null, "line_type": "sale", "attributes": {"format": "paperback", "gift_wrap": false}}
+{"order_id": "NC-100696", "line_no": 1, "product_id": "P001", "qty": 1, "unit_price": 189.93, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 24}}
+{"order_id": "NC-100893", "line_no": 4, "product_id": "P025", "qty": 1, "unit_price": 72.82, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "black", "size": "L"}}
+{"order_id": "NC-100896", "line_no": 1, "product_id": "P019", "qty": 3, "unit_price": 43.08, "discount_pct": null, "line_type": "sale", "attributes": {"color": "olive", "size": "S"}}
+{"order_id": "NC-100763", "line_no": 2, "product_id": "P015", "qty": 1, "unit_price": 11.76, "discount_pct": 25, "line_type": "sale", "attributes": {"color": "grey", "gift_wrap": false}}
+{"order_id": "NC-100661", "line_no": 2, "product_id": "P033", "qty": 1, "unit_price": 62.12, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "blue", "size": "std"}}
+{"order_id": "NC-100584", "line_no": 1, "product_id": "P102", "qty": 3, "unit_price": "91.60", "discount_pct": 5, "line_type": "sale", "attributes": {"color": "orange", "size": "std"}}
+{"order_id": "NC-100816", "line_no": 1, "product_id": "P005", "qty": 1, "unit_price": 451.94, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 24}}
+{"order_id": "NC-100845", "line_no": 1, "product_id": "P009", "qty": 1, "unit_price": 22517.91, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 6}}
+{"order_id": "NC-100839", "line_no": 2, "product_id": "P022", "qty": 2, "unit_price": 6757.65, "discount_pct": 5, "line_type": "sale", "attributes": null}
+{"order_id": "NC-100922", "line_no": 2, "product_id": "P006", "qty": 1, "unit_price": 32815.72, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 24}}
+{"order_id": "NC-100846", "line_no": 1, "product_id": "P009", "qty": 2, "unit_price": 22371.41, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 24}}
+{"order_id": "NC-100543", "line_no": 2, "product_id": "P008", "qty": -1, "unit_price": 49.63, "discount_pct": "0", "line_type": "return", "attributes": {"reason": "changed_mind"}}
+{"order_id": "NC-100938", "line_no": 2, "product_id": "P004", "qty": 1, "unit_price": 14196.18, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 24}}
+{"order_id": "NC-100911", "line_no": 2, "product_id": "P007", "qty": 1, "unit_price": 36845.95, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 12}}
+{"order_id": "NC-100624", "line_no": 2, "product_id": "P039", "qty": 3, "unit_price": 8.83, "discount_pct": 10, "line_type": "sale", "attributes": {"format": "hardcover", "gift_wrap": false}}
+{"order_id": "NC-100792", "line_no": 2, "product_id": "P007", "qty": 1, "unit_price": 36361.91, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 6}}
+{"order_id": "NC-100153", "line_no": 1, "product_id": "P007", "qty": 3, "unit_price": 36627.64, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 6}}
+{"order_id": "NC-100644", "line_no": 1, "product_id": "P022", "qty": 1, "unit_price": 76.1, "discount_pct": null, "line_type": "sale", "attributes": {"color": "navy", "size": "M"}}
+{"order_id": "NC-100693", "line_no": 1, "product_id": "P010", "qty": 1, "unit_price": 15903.48, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 12}}
+{"order_id": "NC-100513", "line_no": 1, "product_id": "P003", "qty": 1, "unit_price": 479.57, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 6}}
+{"order_id": "NC-100731", "line_no": 1, "product_id": "P013", "qty": 3, "unit_price": 961.87, "discount_pct": null, "line_type": "sale", "attributes": {"color": "grey", "gift_wrap": false}}
+{"order_id": "NC-100885", "line_no": 1, "product_id": "P033", "qty": 2, "unit_price": 84.46, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "orange", "size": "L"}}
+{"order_id": "NC-100821", "line_no": 2, "product_id": "P008", "qty": 1, "unit_price": 4177.89, "discount_pct": 12.5, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 24}}
+{"order_id": "NC-100775", "line_no": 2, "product_id": "P038", "qty": 2, "unit_price": 13.83, "discount_pct": 15, "line_type": "sale", "attributes": {"format": "hardcover", "gift_wrap": false}}
+{"order_id": "NC-100317", "line_no": 6, "product_id": "P037", "qty": -1, "unit_price": 8800.87, "discount_pct": 0, "line_type": "return", "attributes": {"reason": "wrong_size"}}
+{"order_id": "NC-100542", "line_no": 4, "product_id": "P010", "qty": 1, "unit_price": 190.53, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 6}}
+{"order_id": "NC-100509", "line_no": 4, "product_id": "P026", "qty": 1, "unit_price": 87.21, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "olive", "size": "M"}}
+{"order_id": "NC-100539", "line_no": 1, "product_id": "P032", "qty": 2, "unit_price": 38.74, "discount_pct": 5, "line_type": "sale", "attributes": {"volume_ml": 100, "gift_wrap": false}}
+{"order_id": "NC-100888", "line_no": 2, "product_id": "P009", "qty": 1, "unit_price": 22180.5, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 24}}
+{"order_id": "NC-100673", "line_no": 1, "product_id": "P001", "qty": 2, "unit_price": "196.96", "discount_pct": 15, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 24}}
+{"order_id": "NC-100536", "line_no": 1, "product_id": "P037", "qty": 1, "unit_price": 9374.07, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "black", "size": "L"}}
+{"order_id": "NC-100638", "line_no": 2, "product_id": "P006", "qty": 2, "unit_price": 30759.17, "discount_pct": null, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 12}}
+{"order_id": "NC-100723", "line_no": 3, "product_id": "P034", "qty": 1, "unit_price": 11814.41, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "blue", "size": "L"}}
+{"order_id": "NC-100405", "line_no": 4, "product_id": "P030", "qty": -1, "unit_price": 9.16, "discount_pct": 10, "line_type": "return", "attributes": {"reason": "wrong_size"}}
+{"order_id": "NC-100568", "line_no": 1, "product_id": "P001", "qty": 1, "unit_price": 193.55, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 12}}
+{"order_id": "NC-100587", "line_no": 2, "product_id": "P010", "qty": 1, "unit_price": 173.51, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 24}}
+{"order_id": "NC-100730", "line_no": 2, "product_id": "P013", "qty": 1, "unit_price": 10.43, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "grey", "gift_wrap": false}}
+{"order_id": "NC-100549", "line_no": 1, "product_id": "P031", "qty": 1, "unit_price": 27.96, "discount_pct": 10, "line_type": "sale", "attributes": {"volume_ml": 100, "gift_wrap": false}}
+{"order_id": "NC-100717", "line_no": 1, "product_id": "P007", "qty": 2, "unit_price": 375.16, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 24}}
+{"order_id": "NC-100677", "line_no": 3, "product_id": "P009", "qty": 1, "unit_price": 283.11, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 6}}
+{"order_id": "NC-100730", "line_no": 1, "product_id": "P010", "qty": 2, "unit_price": 178.01, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 24}}
+{"order_id": "NC-100855", "line_no": 1, "product_id": "P024", "qty": 1, "unit_price": 7467.48, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "olive", "size": "XL"}}
+{"order_id": "NC-100808", "line_no": 1, "product_id": "P101", "qty": 1, "unit_price": 194.91, "discount_pct": 5, "line_type": "sale", "attributes": null}
+{"order_id": "NC-100565", "line_no": 2, "product_id": "P040", "qty": 2, "unit_price": 25.92, "discount_pct": 0, "line_type": "sale", "attributes": {"format": "hardcover", "gift_wrap": true}}
+{"order_id": "NC-100646", "line_no": 1, "product_id": "P004", "qty": 2, "unit_price": 171.27, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 24}}
+{"order_id": "NC-100756", "line_no": 1, "product_id": "P010", "qty": 1, "unit_price": 155.36, "discount_pct": null, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 6}}
+{"order_id": "NC-100692", "line_no": 1, "product_id": "P038", "qty": 2, "unit_price": 13.39, "discount_pct": 5, "line_type": "sale", "attributes": {"format": "paperback", "gift_wrap": false}}
+{"order_id": "NC-100577", "line_no": 3, "product_id": "P034", "qty": 2, "unit_price": 148.66, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "black", "size": "std"}}
+{"order_id": "NC-100888", "line_no": 3, "product_id": "P002", "qty": 1, "unit_price": 16914.62, "discount_pct": null, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 6}}
+{"order_id": "NC-100762", "line_no": 1, "product_id": "P038", "qty": 4, "unit_price": 23.51, "discount_pct": 15, "line_type": "sale", "attributes": {"format": "hardcover", "gift_wrap": false}}
+{"order_id": "NC-100772", "line_no": 1, "product_id": "P012", "qty": 1, "unit_price": 42.51, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "grey", "gift_wrap": true}}
+{"order_id": "NC-100560", "line_no": 2, "product_id": "P034", "qty": -2, "unit_price": 141.61, "discount_pct": null, "line_type": "return", "attributes": {"reason": "not_as_described"}}
+{"order_id": "NC-100744", "line_no": 1, "product_id": "P010", "qty": 1, "unit_price": 16354.73, "discount_pct": 12.5, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 6}}
+{"order_id": "NC-100521", "line_no": 1, "product_id": "P004", "qty": 1, "unit_price": 14759.72, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 6}}
+{"order_id": "NC-100785", "line_no": 2, "product_id": "P036", "qty": 3, "unit_price": 50.36, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "orange", "size": "L"}}
+{"order_id": "NC-100842", "line_no": 1, "product_id": "P037", "qty": 1, "unit_price": 9091.81, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "blue", "size": "std"}}
+{"order_id": "NC-100748", "line_no": 1, "product_id": "P029", "qty": 3, "unit_price": 3919.86, "discount_pct": 5, "line_type": "sale", "attributes": {"volume_ml": 100, "gift_wrap": false}}
+{"order_id": "NC-100762", "line_no": 2, "product_id": "P015", "qty": 3, "unit_price": 19.38, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "white", "gift_wrap": false}}
+{"order_id": "NC-100567", "line_no": 2, "product_id": "P039", "qty": -2, "unit_price": 602.52, "discount_pct": 10, "line_type": "return", "attributes": {"reason": "changed_mind"}}
+{"order_id": "NC-100866", "line_no": 1, "product_id": "P020", "qty": 2, "unit_price": 4404.95, "discount_pct": 0, "line_type": "sale", "attributes": null}
+{"order_id": "NC-100851", "line_no": 2, "product_id": "P026", "qty": 3, "unit_price": 6960.33, "discount_pct": null, "line_type": "sale", "attributes": {"color": "navy", "size": "XL"}}
+{"order_id": "NC-100748", "line_no": 4, "product_id": "P020", "qty": 1, "unit_price": 4309.29, "discount_pct": 25, "line_type": "sale", "attributes": {"color": "red", "size": "S"}}
+{"order_id": "NC-100918", "line_no": 1, "product_id": "P022", "qty": 3, "unit_price": 6609.95, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "navy", "size": "XL"}}
+{"order_id": "NC-100688", "line_no": 2, "product_id": "P030", "qty": 1, "unit_price": 9.85, "discount_pct": 15, "line_type": "sale", "attributes": {"volume_ml": 100, "gift_wrap": true}}
+{"order_id": "NC-100832", "line_no": 2, "product_id": "P016", "qty": 1, "unit_price": 91.93, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "white", "gift_wrap": false}}
+{"order_id": "NC-100863", "line_no": 2, "product_id": "P029", "qty": 1, "unit_price": 46.71, "discount_pct": 0, "line_type": "sale", "attributes": {"volume_ml": 100, "gift_wrap": false}}
+{"order_id": "NC-100895", "line_no": 3, "product_id": "P011", "qty": 1, "unit_price": 8862.15, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "green", "gift_wrap": false}}
+{"order_id": "NC-100260", "line_no": 3, "product_id": "P004", "qty": -1, "unit_price": 144.44, "discount_pct": 10, "line_type": "return", "attributes": {"reason": "changed_mind"}}
+{"order_id": "NC-100769", "line_no": 1, "product_id": "P001", "qty": 1, "unit_price": 16066.79, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 24}}
+{"order_id": "NC-100576", "line_no": 4, "product_id": "P026", "qty": -1, "unit_price": 62.4, "discount_pct": null, "line_type": "return", "attributes": {"reason": "not_as_described"}}
+{"order_id": "NC-100719", "line_no": 1, "product_id": "P010", "qty": 1, "unit_price": 165.35, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 12}}
+{"order_id": "NC-100497", "line_no": 3, "product_id": "P004", "qty": -1, "unit_price": 14388.41, "discount_pct": 5, "line_type": "return", "attributes": {"reason": "damaged"}}
+{"order_id": "NC-100874", "line_no": 2, "product_id": "P032", "qty": 1, "unit_price": 4595.4, "discount_pct": 5, "line_type": "sale", "attributes": {"volume_ml": 30, "gift_wrap": false}}
+{"order_id": "NC-990102", "line_no": 1, "product_id": "P006", "qty": 1, "unit_price": 369.65, "discount_pct": null, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 6}}
+{"order_id": "NC-100621", "line_no": 2, "product_id": "P013", "qty": 1, "unit_price": 867.32, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "green", "gift_wrap": false}}
+{"order_id": "NC-100757", "line_no": 1, "product_id": "P006", "qty": 1, "unit_price": 266.56, "discount_pct": 12.5, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 24}}
+{"order_id": "NC-100705", "line_no": 2, "product_id": "P009", "qty": 2, "unit_price": 215.72, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 6}}
+{"order_id": "NC-100821", "line_no": 1, "product_id": "P007", "qty": 2, "unit_price": 33601.51, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 12}}
+{"order_id": "NC-100685", "line_no": 1, "product_id": "P010", "qty": 1, "unit_price": 155.92, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 6}}
+{"order_id": "NC-100529", "line_no": 1, "product_id": "P006", "qty": 2, "unit_price": 31073.57, "discount_pct": 25, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 24}}
+{"order_id": "NC-100670", "line_no": 1, "product_id": "P022", "qty": 1, "unit_price": 58.69, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "black", "size": "M"}}
+{"order_id": "NC-100642", "line_no": 2, "product_id": "P025", "qty": 1, "unit_price": 71.07, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "red", "size": "L"}}
+{"order_id": "NC-100597", "line_no": 2, "product_id": "P013", "qty": 1, "unit_price": 9.89, "discount_pct": 25, "line_type": "sale", "attributes": {"color": "white", "gift_wrap": false}}
+{"order_id": "NC-100750", "line_no": 2, "product_id": "P013", "qty": 2, "unit_price": "9.30", "discount_pct": 0, "line_type": "sale", "attributes": {"color": "grey", "gift_wrap": false}}
+{"order_id": "NC-100725", "line_no": 3, "product_id": "P022", "qty": 1, "unit_price": "6425.38", "discount_pct": 25, "line_type": "sale", "attributes": {"color": "black", "size": "XL"}}
+{"order_id": "NC-100775", "line_no": 3, "product_id": "P011", "qty": 2, "unit_price": 77.07, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "white", "gift_wrap": false}}
+{"order_id": "NC-100689", "line_no": 1, "product_id": "P020", "qty": 1, "unit_price": 53.99, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "olive", "size": "L"}}
+{"order_id": "NC-100663", "line_no": 1, "product_id": "P003", "qty": 1, "unit_price": 31443.57, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 24}}
+{"order_id": "NC-100795", "line_no": 2, "product_id": "P010", "qty": 3, "unit_price": 233.39, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 12}}
+{"order_id": "NC-100572", "line_no": 4, "product_id": "P014", "qty": 1, "unit_price": 1773.7, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "grey", "gift_wrap": false}}
+{"order_id": "NC-100727", "line_no": 3, "product_id": "P005", "qty": 1, "unit_price": 27756.42, "discount_pct": 12.5, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 6}}
+{"order_id": "NC-100791", "line_no": 2, "product_id": "P021", "qty": 2, "unit_price": 3853.08, "discount_pct": 12.5, "line_type": "sale", "attributes": {"color": "red", "size": "XL"}}
+{"order_id": "NC-100591", "line_no": 1, "product_id": "P032", "qty": 1, "unit_price": 40.32, "discount_pct": null, "line_type": "sale", "attributes": {"volume_ml": 30, "gift_wrap": false}}
+{"order_id": "NC-100907", "line_no": 1, "product_id": "P006", "qty": 1, "unit_price": 285.53, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 12}}
+{"order_id": "NC-100766", "line_no": 1, "product_id": "P009", "qty": 1, "unit_price": 22343.44, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 6}}
+{"order_id": "NC-100814", "line_no": 1, "product_id": "P030", "qty": 3, "unit_price": 10.14, "discount_pct": 10, "line_type": "sale", "attributes": {"volume_ml": 50, "gift_wrap": false}}
+{"order_id": "NC-100657", "line_no": 1, "product_id": "P030", "qty": 1, "unit_price": 903.57, "discount_pct": 12.5, "line_type": "sale", "attributes": {"volume_ml": 30, "gift_wrap": true}}
+{"order_id": "NC-100636", "line_no": 3, "product_id": "P008", "qty": 1, "unit_price": 35.23, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 12}}
+{"order_id": "NC-100607", "line_no": 2, "product_id": "P037", "qty": 1, "unit_price": 101.19, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "black", "size": "L"}}
+{"order_id": "NC-100584", "line_no": 3, "product_id": "P026", "qty": 1, "unit_price": 60.03, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "black", "size": "XL"}}
+{"order_id": "NC-100745", "line_no": 2, "product_id": "P001", "qty": 2, "unit_price": 145.2, "discount_pct": null, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 24}}
+{"order_id": "NC-100903", "line_no": 1, "product_id": "P013", "qty": 1, "unit_price": 10.65, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "grey", "gift_wrap": false}}
+{"order_id": "NC-100542", "line_no": 1, "product_id": "P005", "qty": 1, "unit_price": 335.04, "discount_pct": 10, "line_type": "sale", "attributes": null}
+{"order_id": "NC-100779", "line_no": 2, "product_id": "P002", "qty": 3, "unit_price": 16144.96, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 24}}
+{"order_id": "NC-100788", "line_no": 1, "product_id": "P011", "qty": 1, "unit_price": 108.8, "discount_pct": null, "line_type": "sale", "attributes": {"color": "beige", "gift_wrap": false}}
+{"order_id": "NC-100496", "line_no": 1, "product_id": "P027", "qty": 2, "unit_price": 2720.91, "discount_pct": 20, "line_type": "sale", "attributes": {"volume_ml": 100, "gift_wrap": true}}
+{"order_id": "NC-100720", "line_no": 1, "product_id": "P011", "qty": 1, "unit_price": 106.23, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "grey", "gift_wrap": false}}
+{"order_id": "NC-100794", "line_no": 3, "product_id": "P037", "qty": 1, "unit_price": 9251.31, "discount_pct": 0, "line_type": "sale", "attributes": null}
+{"order_id": "NC-100699", "line_no": 2, "product_id": "P034", "qty": 2, "unit_price": 141.66, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "orange", "size": "L"}}
+{"order_id": "NC-100335", "line_no": 3, "product_id": "P013", "qty": -1, "unit_price": 11.03, "discount_pct": 15, "line_type": "return", "attributes": {"reason": "wrong_size"}}
+{"order_id": "NC-100738", "line_no": 1, "product_id": "P013", "qty": 1, "unit_price": 11.07, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "beige", "gift_wrap": false}}
+{"order_id": "NC-100841", "line_no": 1, "product_id": "P017", "qty": 1, "unit_price": 6171.65, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "white", "gift_wrap": true}}
+{"order_id": "NC-100593", "line_no": 2, "product_id": "P018", "qty": 1, "unit_price": 2234.88, "discount_pct": null, "line_type": "sale", "attributes": {"color": "white", "gift_wrap": false}}
+{"order_id": "NC-100611", "line_no": 1, "product_id": "P026", "qty": 1, "unit_price": 7032.55, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "navy", "size": "L"}}
+{"order_id": "NC-100596", "line_no": 3, "product_id": "P005", "qty": 1, "unit_price": 27662.87, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 6}}
+{"order_id": "NC-100542", "line_no": 2, "product_id": "P004", "qty": 2, "unit_price": 162.28, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 24}}
+{"order_id": "NC-100645", "line_no": 1, "product_id": "P030", "qty": 1, "unit_price": 882.37, "discount_pct": 5, "line_type": "sale", "attributes": {"volume_ml": 100, "gift_wrap": true}}
+{"order_id": "NC-100609", "line_no": 3, "product_id": "P037", "qty": 1, "unit_price": 106.08, "discount_pct": 25, "line_type": "sale", "attributes": {"color": "blue", "size": "std"}}
+{"order_id": "NC-100563", "line_no": 2, "product_id": "P019", "qty": 3, "unit_price": 51.33, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "red", "size": "S"}}
+{"order_id": "NC-100677", "line_no": 2, "product_id": "P012", "qty": 1, "unit_price": 48.66, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "beige", "gift_wrap": false}}
+{"order_id": "NC-100924", "line_no": 2, "product_id": "P026", "qty": 1, "unit_price": 6813.71, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "red", "size": "XL"}}
+{"order_id": "NC-100885", "line_no": 2, "product_id": "P024", "qty": 2, "unit_price": 118.86, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "red", "size": "XL"}}
+{"order_id": "NC-100798", "line_no": 2, "product_id": "P018", "qty": 3, "unit_price": 25.78, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "green", "gift_wrap": false}}
+{"order_id": "NC-100576", "line_no": 1, "product_id": "P010", "qty": 2, "unit_price": 132.04, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 6}}
+{"order_id": "NC-100649", "line_no": 1, "product_id": "P014", "qty": 2, "unit_price": 20.1, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "green", "gift_wrap": false}}
+{"order_id": "NC-100836", "line_no": 1, "product_id": "P016", "qty": 1, "unit_price": 94.35, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "beige", "gift_wrap": false}}
+{"order_id": "NC-100083", "line_no": 2, "product_id": "P024", "qty": 3, "unit_price": 80.94, "discount_pct": 15, "line_type": "sale", "attributes": null}
+{"order_id": "NC-100852", "line_no": 1, "product_id": "P017", "qty": 1, "unit_price": 96.69, "discount_pct": "15", "line_type": "sale", "attributes": {"color": "white", "gift_wrap": true}}
+{"order_id": "NC-100698", "line_no": 2, "product_id": "P031", "qty": 3, "unit_price": 2548.55, "discount_pct": 15, "line_type": "sale", "attributes": {"volume_ml": 30, "gift_wrap": false}}
+{"order_id": "NC-100105", "line_no": 3, "product_id": "P003", "qty": -1, "unit_price": 33433.55, "discount_pct": 5, "line_type": "return", "attributes": {"reason": "not_as_described"}}
+{"order_id": "NC-100545", "line_no": 1, "product_id": "P037", "qty": 1, "unit_price": 86.64, "discount_pct": 0, "line_type": "sale", "attributes": null}
+{"order_id": "NC-100639", "line_no": 1, "product_id": "P006", "qty": 1, "unit_price": "283.27", "discount_pct": 5, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 6}}
+{"order_id": "NC-100738", "line_no": 1, "product_id": "P013", "qty": 1, "unit_price": 11.07, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "beige", "gift_wrap": false}}
+{"order_id": "NC-100584", "line_no": 2, "product_id": "P010", "qty": 1, "unit_price": 129.99, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 24}}
+{"order_id": "NC-100606", "line_no": 1, "product_id": "P031", "qty": 3, "unit_price": 28.62, "discount_pct": 12.5, "line_type": "sale", "attributes": {"volume_ml": 50, "gift_wrap": false}}
+{"order_id": "NC-100642", "line_no": 2, "product_id": "P025", "qty": 1, "unit_price": 71.07, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "red", "size": "L"}}
+{"order_id": "NC-100856", "line_no": 1, "product_id": "P014", "qty": 1, "unit_price": 19.97, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "beige", "gift_wrap": false}}
+{"order_id": "NC-100617", "line_no": 1, "product_id": "P018", "qty": 1, "unit_price": 2416.43, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "green", "gift_wrap": false}}
+{"order_id": "NC-100422", "line_no": 3, "product_id": "P034", "qty": -1, "unit_price": 148.48, "discount_pct": 15, "line_type": "return", "attributes": {"reason": "wrong_size"}}
+{"order_id": "NC-100567", "line_no": 1, "product_id": "P039", "qty": 3, "unit_price": 602.52, "discount_pct": 10, "line_type": "sale", "attributes": {"format": "paperback", "gift_wrap": false}}
+{"order_id": "NC-100820", "line_no": 1, "product_id": "P030", "qty": 3, "unit_price": 9.47, "discount_pct": 10, "line_type": "sale", "attributes": {"volume_ml": 100, "gift_wrap": false}}
+{"order_id": "NC-100867", "line_no": 3, "product_id": "P010", "qty": 1, "unit_price": 144.87, "discount_pct": 25, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 24}}
+{"order_id": "NC-100844", "line_no": 3, "product_id": "P002", "qty": 3, "unit_price": 182.84, "discount_pct": 25, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 24}}
+{"order_id": "NC-100562", "line_no": 1, "product_id": "P004", "qty": 2, "unit_price": 127.5, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 6}}
+{"order_id": "NC-100565", "line_no": 1, "product_id": "P017", "qty": 2, "unit_price": 64.69, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "green", "gift_wrap": false}}
+{"order_id": "NC-100634", "line_no": 1, "product_id": "P009", "qty": 1, "unit_price": 22874.15, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 12}}
+{"order_id": "NC-100520", "line_no": 1, "product_id": "P022", "qty": 1, "unit_price": 64.72, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "navy", "size": "L"}}
+{"order_id": "NC-100564", "line_no": 1, "product_id": "P030", "qty": 2, "unit_price": 10.45, "discount_pct": 10, "line_type": "sale", "attributes": {"volume_ml": 100, "gift_wrap": false}}
+{"order_id": "NC-100908", "line_no": 1, "product_id": "P028", "qty": 2, "unit_price": 29.55, "discount_pct": 15, "line_type": "sale", "attributes": {"volume_ml": 100, "gift_wrap": false}}
+{"order_id": "NC-100788", "line_no": 2, "product_id": "P038", "qty": 2, "unit_price": 18.88, "discount_pct": 10, "line_type": "sale", "attributes": {"format": "hardcover", "gift_wrap": false}}
+{"order_id": "NC-100726", "line_no": 1, "product_id": "P004", "qty": 2, "unit_price": "147.82", "discount_pct": 0, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 6}}
+{"order_id": "NC-100793", "line_no": 1, "product_id": "P011", "qty": 1, "unit_price": 99.5, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "grey", "gift_wrap": true}}
+{"order_id": "NC-100727", "line_no": 2, "product_id": "P035", "qty": 3, "unit_price": 10578.83, "discount_pct": null, "line_type": "sale", "attributes": {"color": "blue", "size": "L"}}
+{"order_id": "NC-100861", "line_no": 1, "product_id": "P037", "qty": 3, "unit_price": 78.76, "discount_pct": null, "line_type": "sale", "attributes": {"color": "orange", "size": "L"}}
+{"order_id": "NC-100706", "line_no": 3, "product_id": "P007", "qty": 3, "unit_price": 408.72, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 12}}
+{"order_id": "NC-100869", "line_no": 1, "product_id": "P007", "qty": 1, "unit_price": 545.57, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 24}}
+{"order_id": "NC-100545", "line_no": 3, "product_id": "P017", "qty": 3, "unit_price": 60.07, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "grey", "gift_wrap": false}}
+{"order_id": "NC-100635", "line_no": 2, "product_id": "P016", "qty": 1, "unit_price": 8890.31, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "white", "gift_wrap": true}}
+{"order_id": "NC-100923", "line_no": 1, "product_id": "P029", "qty": 2, "unit_price": 3852.28, "discount_pct": 5, "line_type": "sale", "attributes": {"volume_ml": 100, "gift_wrap": false}}
+{"order_id": "NC-100697", "line_no": 1, "product_id": "P001", "qty": 2, "unit_price": 180.4, "discount_pct": null, "line_type": "sale", "attributes": null}
+{"order_id": "NC-100785", "line_no": 3, "product_id": "P017", "qty": 1, "unit_price": 58.29, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "white", "gift_wrap": false}}
+{"order_id": "NC-100721", "line_no": 1, "product_id": "P033", "qty": 1, "unit_price": 81.73, "discount_pct": 25, "line_type": "sale", "attributes": {"color": "orange", "size": "std"}}
+{"order_id": "NC-100534", "line_no": 3, "product_id": "P021", "qty": 1, "unit_price": 3477.65, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "red", "size": "XL"}}
+{"order_id": "NC-100519", "line_no": 2, "product_id": "P001", "qty": 1, "unit_price": 15677.17, "discount_pct": 10, "line_type": "sale", "attributes": null}
+{"order_id": "NC-100307", "line_no": 5, "product_id": "P007", "qty": -1, "unit_price": 36783.63, "discount_pct": 25, "line_type": "return", "attributes": {"reason": "wrong_size"}}
+{"order_id": "NC-100723", "line_no": 2, "product_id": "P012", "qty": 1, "unit_price": 3797.93, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "grey", "gift_wrap": false}}
+{"order_id": "NC-100618", "line_no": 1, "product_id": "P026", "qty": 1, "unit_price": 79.88, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "black", "size": "XL"}}
+{"order_id": "NC-100572", "line_no": 1, "product_id": "P030", "qty": 1, "unit_price": 822.44, "discount_pct": 0, "line_type": "sale", "attributes": {"volume_ml": 50, "gift_wrap": false}}
+{"order_id": "NC-100680", "line_no": 1, "product_id": "P002", "qty": 1, "unit_price": 17242.2, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 12}}
+{"order_id": "NC-100608", "line_no": 1, "product_id": "P016", "qty": 1, "unit_price": 8377.33, "discount_pct": 20, "line_type": "sale", "attributes": null}
+{"order_id": "NC-100533", "line_no": 1, "product_id": "P027", "qty": 2, "unit_price": 27.25, "discount_pct": null, "line_type": "sale", "attributes": {"volume_ml": 30, "gift_wrap": false}}
+{"order_id": "NC-100539", "line_no": 2, "product_id": "P022", "qty": 3, "unit_price": 57.21, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "black", "size": "M"}}
+{"order_id": "NC-100704", "line_no": 2, "product_id": "P005", "qty": 3, "unit_price": 361.17, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 6}}
+{"order_id": "NC-100886", "line_no": 1, "product_id": "P037", "qty": 2, "unit_price": 77.13, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "blue", "size": "L"}}
+{"order_id": "NC-990101", "line_no": 1, "product_id": "P033", "qty": 3, "unit_price": 59.05, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "black", "size": "L"}}
+{"order_id": "NC-100572", "line_no": 2, "product_id": "P003", "qty": 1, "unit_price": 33192.63, "discount_pct": 25, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 6}}
+{"order_id": "NC-100841", "line_no": 2, "product_id": "P034", "qty": 1, "unit_price": 11424.45, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "black", "size": "std"}}
+{"order_id": "NC-100823", "line_no": 1, "product_id": "P004", "qty": 1, "unit_price": 13431.5, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 6}}
+{"order_id": "NC-100779", "line_no": 4, "product_id": "P010", "qty": 1, "unit_price": 15043.08, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 12}}
+{"order_id": "NC-100812", "line_no": 1, "product_id": "P006", "qty": 1, "unit_price": 31554.83, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 6}}
+{"order_id": "NC-100733", "line_no": 2, "product_id": "P009", "qty": 1, "unit_price": 213.62, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 24}}
+{"order_id": "NC-100632", "line_no": 1, "product_id": "P021", "qty": 2, "unit_price": "36.96", "discount_pct": null, "line_type": "sale", "attributes": {"color": "black", "size": "M"}}
+{"order_id": "NC-100669", "line_no": 2, "product_id": "P005", "qty": 1, "unit_price": 29822.07, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 6}}
+{"order_id": "NC-100782", "line_no": 1, "product_id": "P032", "qty": 1, "unit_price": 50.76, "discount_pct": 0, "line_type": "sale", "attributes": {"volume_ml": 50, "gift_wrap": false}}
+{"order_id": "NC-100566", "line_no": 3, "product_id": "P006", "qty": 2, "unit_price": 32060.7, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 24}}
+{"order_id": "NC-100710", "line_no": 2, "product_id": "P024", "qty": 2, "unit_price": 86.4, "discount_pct": 25, "line_type": "sale", "attributes": {"color": "navy", "size": "S"}}
+{"order_id": "NC-100581", "line_no": 3, "product_id": "P036", "qty": 3, "unit_price": 5882.19, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "orange", "size": "std"}}
+{"order_id": "NC-100828", "line_no": 1, "product_id": "P013", "qty": 1, "unit_price": 8.28, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "grey", "gift_wrap": false}}
+{"order_id": "NC-100784", "line_no": 2, "product_id": "P010", "qty": 2, "unit_price": 128.68, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 24}}
+{"order_id": "NC-100909", "line_no": 3, "product_id": "P022", "qty": 1, "unit_price": 53.41, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "black", "size": "M"}}
+{"order_id": "NC-100940", "line_no": 1, "product_id": "P021", "qty": 1, "unit_price": 3884.24, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "navy", "size": "L"}}
+{"order_id": "NC-100787", "line_no": 2, "product_id": "P031", "qty": 1, "unit_price": 23.54, "discount_pct": 5, "line_type": "sale", "attributes": {"volume_ml": 30, "gift_wrap": false}}
+{"order_id": "NC-100716", "line_no": 3, "product_id": "P021", "qty": 1, "unit_price": 45.69, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "black", "size": "XL"}}
+{"order_id": "NC-100690", "line_no": 2, "product_id": "P001", "qty": 1, "unit_price": 15948.92, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 12}}
+{"order_id": "NC-100776", "line_no": 2, "product_id": "P003", "qty": 1, "unit_price": 31129.33, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 6}}
+{"order_id": "NC-100919", "line_no": 3, "product_id": "P031", "qty": 3, "unit_price": 28.81, "discount_pct": 15, "line_type": "sale", "attributes": {"volume_ml": 50, "gift_wrap": true}}
+{"order_id": "NC-100573", "line_no": 1, "product_id": "P008", "qty": 1, "unit_price": 45.01, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 12}}
+{"order_id": "NC-100547", "line_no": 4, "product_id": "P012", "qty": 1, "unit_price": 4165.21, "discount_pct": 5, "line_type": "sale", "attributes": {"color": "grey", "gift_wrap": false}}
+{"order_id": "NC-100610", "line_no": 1, "product_id": "P039", "qty": 5, "unit_price": 547.62, "discount_pct": 0, "line_type": "sale", "attributes": {"format": "hardcover", "gift_wrap": false}}
+{"order_id": "NC-100528", "line_no": 1, "product_id": "P023", "qty": 1, "unit_price": "7003.76", "discount_pct": null, "line_type": "sale", "attributes": {"color": "navy", "size": "XL"}}
+{"order_id": "NC-100790", "line_no": 2, "product_id": "P021", "qty": 1, "unit_price": 3843.06, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "black", "size": "L"}}
+{"order_id": "NC-100312", "line_no": 4, "product_id": "P001", "qty": -3, "unit_price": 15177.84, "discount_pct": 12.5, "line_type": "return", "attributes": {"reason": "changed_mind"}}
+{"order_id": "NC-100825", "line_no": 1, "product_id": "P004", "qty": 1, "unit_price": 14956.62, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 6}}
+{"order_id": "NC-100661", "line_no": 3, "product_id": "P004", "qty": 2, "unit_price": 173.34, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 24}}
+{"order_id": "NC-100918", "line_no": 2, "product_id": "P031", "qty": 1, "unit_price": 2607.8, "discount_pct": 10, "line_type": "sale", "attributes": {"volume_ml": 50, "gift_wrap": true}}
+{"order_id": "NC-100857", "line_no": 2, "product_id": "P005", "qty": 1, "unit_price": 246.91, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "white", "warranty_months": 24}}
+{"order_id": "NC-100817", "line_no": 1, "product_id": "P030", "qty": 3, "unit_price": 13.02, "discount_pct": 0, "line_type": "sale", "attributes": {"volume_ml": 100, "gift_wrap": false}}
+{"order_id": "NC-100945", "line_no": 1, "product_id": "P007", "qty": 3, "unit_price": 35574.38, "discount_pct": 25, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 6}}
+{"order_id": "NC-100716", "line_no": 2, "product_id": "P015", "qty": 2, "unit_price": 16.04, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "green", "gift_wrap": false}}
+{"order_id": "NC-100329", "line_no": 5, "product_id": "P001", "qty": -2, "unit_price": 198.96, "discount_pct": 20, "line_type": "return", "attributes": {"reason": "wrong_size"}}
+{"order_id": "NC-100890", "line_no": 2, "product_id": "P002", "qty": 1, "unit_price": 16715.67, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 24}}
+{"order_id": "NC-100834", "line_no": 2, "product_id": "P006", "qty": 1, "unit_price": 318.3, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "black", "warranty_months": 6}}
+{"order_id": "NC-100620", "line_no": 1, "product_id": "P001", "qty": 1, "unit_price": 15825.25, "discount_pct": null, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 6}}
+{"order_id": "NC-100789", "line_no": 2, "product_id": "P020", "qty": 1, "unit_price": 4301.65, "discount_pct": null, "line_type": "sale", "attributes": {"color": "olive", "size": "S"}}
+{"order_id": "NC-100755", "line_no": 1, "product_id": "P011", "qty": 1, "unit_price": 8974.75, "discount_pct": 0, "line_type": "sale", "attributes": {"color": "beige", "gift_wrap": false}}
+{"order_id": "NC-100563", "line_no": 4, "product_id": "P013", "qty": 2, "unit_price": "9.70", "discount_pct": 0, "line_type": "sale", "attributes": {"color": "green", "gift_wrap": false}}
+{"order_id": "NC-100734", "line_no": 3, "product_id": "P023", "qty": 1, "unit_price": 81.91, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "olive", "size": "XL"}}
+{"order_id": "NC-100813", "line_no": 1, "product_id": "P022", "qty": 2, "unit_price": 72.25, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "navy", "size": "M"}}
+{"order_id": "NC-100572", "line_no": 3, "product_id": "P008", "qty": 1, "unit_price": 3843.08, "discount_pct": null, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 24}}
+{"order_id": "NC-100752", "line_no": 2, "product_id": "P030", "qty": 2, "unit_price": 7.78, "discount_pct": 0, "line_type": "sale", "attributes": {"volume_ml": 30, "gift_wrap": false}}
+{"order_id": "NC-100579", "line_no": 1, "product_id": "P006", "qty": 1, "unit_price": 31077.4, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 6}}
+{"order_id": "NC-100902", "line_no": 3, "product_id": "P010", "qty": 1, "unit_price": 230.95, "discount_pct": null, "line_type": "sale", "attributes": {"color": "silver", "warranty_months": 12}}
+{"order_id": "NC-100806", "line_no": 3, "product_id": "P022", "qty": 1, "unit_price": 52.32, "discount_pct": 15, "line_type": "sale", "attributes": {"color": "black", "size": "M"}}
+{"order_id": "NC-100368", "line_no": 5, "product_id": "P037", "qty": -1, "unit_price": 9481.08, "discount_pct": 0, "line_type": "return", "attributes": {"reason": "changed_mind"}}
+{"order_id": "NC-100763", "line_no": 1, "product_id": "P017", "qty": 2, "unit_price": 57.36, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "green", "gift_wrap": false}}
+{"order_id": "NC-100499", "line_no": 1, "product_id": "P036", "qty": 1, "unit_price": 5392.12, "discount_pct": 20, "line_type": "sale", "attributes": {"color": "blue", "size": "std"}}
+{"order_id": "NC-100750", "line_no": 1, "product_id": "P006", "qty": 1, "unit_price": 348.3, "discount_pct": 10, "line_type": "sale", "attributes": {"color": "blue", "warranty_months": 6}}

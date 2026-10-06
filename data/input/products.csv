@@ -1,0 +1,41 @@
+product_id,sku,product_name,category,list_price_usd
+P001,NC-ELE-001,Wireless Earbuds,Electronics,185.31
+P002,NC-ELE-002,Smart Watch,Electronics,199.46
+P003,NC-ELE-003,Bluetooth Speaker,Electronics,384.97
+P004,NC-ELE-004,Power Bank 20000mAh,Electronics,167.33
+P005,NC-ELE-005,USB-C Hub,Electronics,341.88
+P006,NC-ELE-006,Mechanical Keyboard,Electronics,375.94
+P007,NC-ELE-007,Webcam HD,Electronics,418.99
+P008,NC-ELE-008,Tablet 10in,Electronics,47.23
+P009,NC-ELE-009,Noise Cancelling Headphones,Electronics,277.01
+P010,NC-ELE-010,Portable SSD 1TB,Electronics,181.37
+P011,NC-HOM-001,Ceramic Mug Set,Home,102.08
+P012,NC-HOM-002,Scented Candle,Home,46.9
+P013,NC-HOM-003,Cotton Bedsheet,Home,10.59
+P014,NC-HOM-004,LED Desk Lamp,Home,20.79
+P015,NC-HOM-005,Storage Basket,Home,15.16
+P016,NC-HOM-006,Wall Clock,Home,98.45
+P017,NC-HOM-007,Throw Blanket,Home,74.76
+P018,NC-HOM-008,Kitchen Knife Set,Home,27.09
+P019,NC-FAS-001,Running Shoes,Fashion,54.65
+P020,NC-FAS-002,Denim Jacket,Fashion,53.11
+P021,NC-FAS-003,Cotton T-Shirt,Fashion,42.92
+P022,NC-FAS-004,Leather Wallet,Fashion,74.21
+P023,NC-FAS-005,Sunglasses,Fashion,80.03
+P024,NC-FAS-006,Backpack,Fashion,86.93
+P025,NC-FAS-007,Wool Scarf,Fashion,79.14
+P026,NC-FAS-008,Formal Shirt,Fashion,83.54
+P027,NC-BEA-001,Face Serum,Beauty,33.56
+P028,NC-BEA-002,Sunscreen SPF50,Beauty,40.97
+P029,NC-BEA-003,Hair Dryer,Beauty,47.62
+P030,NC-BEA-004,Lipstick Set,Beauty,10.18
+P031,NC-BEA-005,Body Lotion,Beauty,31.75
+P032,NC-BEA-006,Perfume 50ml,Beauty,52.65
+P033,NC-SPO-001,Yoga Mat,Sports,60.88
+P034,NC-SPO-002,Dumbbell Pair,Sports,140.8
+P035,NC-SPO-003,Cricket Bat,Sports,126.67
+P036,NC-SPO-004,Football,Sports,65.02
+P037,NC-SPO-005,Fitness Band,Sports,108.65
+P038,NC-BOK-001,Data Engineering Handbook,Books,17.74
+P039,NC-BOK-002,Mystery Novel,Books,6.8
+P040,NC-BOK-003,Cookbook Classics,Books,29.07
