@@ -361,6 +361,6 @@ This edition runs locally on **pandas + SQLite**. The storage layer reproduces t
 
 <div align="center">
 
-Built by **Team Medallion** for the HCLTech Cloud Data Engineer (AI-Ready) hackathon, October 2026.
+Built by **Team DATAVERSE** for the HCLTech Cloud Data Engineer (AI-Ready) hackathon, October 2026.
 
 </div>
