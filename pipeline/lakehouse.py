@@ -66,6 +66,9 @@ def _sql_type(series: pd.Series) -> str:
         return "INTEGER"
     if pd.api.types.is_float_dtype(series):
         return "REAL"
+    sample = series.dropna()
+    if len(sample) and all(isinstance(v, (Decimal, float, int)) and not isinstance(v, bool) for v in sample.head(50)):
+        return "REAL"                      # Decimal amounts are stored as numbers, not text
     return "TEXT"
 
 
